@@ -1,0 +1,2326 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru">
+	<head>
+		<title>CARSWEEK.RU - автомобильный портал</title>
+		<meta charset="utf-8">
+		<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+		<link rel="manifest" href="/site.webmanifest">
+		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="msapplication-TileColor" content="#da532c">
+		<meta name="theme-color" content="#ffffff">
+				 
+
+																								
+																																																 
+		<meta name="description" content="Carsweek.ru - автопортал, новости автомира, объявления о продаже новых и бу машин, тест-драйвы, автомобильный каталог, отзывы и полезные советы автолюбителям" />
+ 
+		<style type="text/css">.bx-composite-btn {background: url(/bitrix/images/main/composite/sprite-1x.png) no-repeat right 0 #e94524;border-radius: 15px;color: #fff !important;display: inline-block;line-height: 30px;font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;font-size: 12px !important;font-weight: bold !important;height: 31px !important;padding: 0 42px 0 17px !important;vertical-align: middle !important;text-decoration: none !important;}@media screen   and (min-device-width: 1200px)   and (max-device-width: 1600px)   and (-webkit-min-device-pixel-ratio: 2)  and (min-resolution: 192dpi) {.bx-composite-btn {background-image: url(/bitrix/images/main/composite/sprite-2x.png);background-size: 42px 124px;}}.bx-composite-btn-fixed {position: absolute;top: -45px;right: 15px;z-index: 10;}.bx-btn-white {background-position: right 0;color: #fff !important;}.bx-btn-black {background-position: right -31px;color: #000 !important;}.bx-btn-red {background-position: right -62px;color: #555 !important;}.bx-btn-grey {background-position: right -93px;color: #657b89 !important;}.bx-btn-border {border: 1px solid #d4d4d4;height: 29px !important;line-height: 29px !important;}.bx-composite-loading {display: block;width: 40px;height: 40px;background: url(/bitrix/images/main/composite/loading.gif);}</style>
+<script type="text/javascript" data-skip-moving="true">(function(w, d) {var v = w.frameCacheVars = {'CACHE_MODE':'HTMLCACHE','banner':{'url':'http://www.1c-bitrix.ru/composite/','text':'Быстро с 1С-Битрикс','bgcolor':'#E94524','style':'white'},'storageBlocks':[],'dynamicBlocks':[],'AUTO_UPDATE':true,'AUTO_UPDATE_TTL':'600','version':'2'};var inv = false;if (v.AUTO_UPDATE === false){if (v.AUTO_UPDATE_TTL && v.AUTO_UPDATE_TTL > 0){var lm = Date.parse(d.lastModified);if (!isNaN(lm)){var td = new Date().getTime();if ((lm + v.AUTO_UPDATE_TTL * 1000) >= td){w.frameRequestStart = false;w.preventAutoUpdate = true;return;}inv = true;}}else{w.frameRequestStart = false;w.preventAutoUpdate = true;return;}}var r = w.XMLHttpRequest ? new XMLHttpRequest() : (w.ActiveXObject ? new w.ActiveXObject("Microsoft.XMLHTTP") : null);if (!r) { return; }w.frameRequestStart = true;var m = v.CACHE_MODE; var l = w.location; var x = new Date().getTime();var q = "?bxrand=" + x + (l.search.length > 0 ? "&" + l.search.substring(1) : "");var u = l.protocol + "//" + l.host + l.pathname + q;r.open("GET", u, true);r.setRequestHeader("BX-ACTION-TYPE", "get_dynamic");r.setRequestHeader("X-Bitrix-Composite", "get_dynamic");r.setRequestHeader("BX-CACHE-MODE", m);r.setRequestHeader("BX-CACHE-BLOCKS", v.dynamicBlocks ? JSON.stringify(v.dynamicBlocks) : "");if (inv){r.setRequestHeader("BX-INVALIDATE-CACHE", "Y");}try { r.setRequestHeader("BX-REF", d.referrer || "");} catch(e) {}if (m === "APPCACHE"){r.setRequestHeader("BX-APPCACHE-PARAMS", JSON.stringify(v.PARAMS));r.setRequestHeader("BX-APPCACHE-URL", v.PAGE_URL ? v.PAGE_URL : "");}r.onreadystatechange = function() {if (r.readyState != 4) { return; }var a = r.getResponseHeader("BX-RAND");var b = w.BX && w.BX.frameCache ? w.BX.frameCache : false;if (a != x || !((r.status >= 200 && r.status < 300) || r.status === 304 || r.status === 1223 || r.status === 0)){var f = {error:true, reason:a!=x?"bad_rand":"bad_status", url:u, xhr:r, status:r.status};if (w.BX && w.BX.ready && b){BX.ready(function() {setTimeout(function(){BX.onCustomEvent("onFrameDataRequestFail", [f]);}, 0);});}w.frameRequestFail = f;return;}if (b){b.onFrameDataReceived(r.responseText);if (!w.frameUpdateInvoked){b.update(false);}w.frameUpdateInvoked = true;}else{w.frameDataString = r.responseText;}};r.send();var p = w.performance;if (p && p.addEventListener && p.getEntries && p.setResourceTimingBufferSize){var e = 'resourcetimingbufferfull';var h = function() {if (w.BX && w.BX.frameCache && w.BX.frameCache.frameDataInserted){p.removeEventListener(e, h);}else {p.setResourceTimingBufferSize(p.getEntries().length + 50);}};p.addEventListener(e, h);}})(window, document);</script>
+<script type="text/javascript" data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Windows/i.test(ua)){cl += ' bx-win';}else if (/Macintosh/i.test(ua)){cl += " bx-mac";}else if (/Linux/i.test(ua) && !/Android/i.test(ua)){cl += " bx-linux";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";var ieVersion = -1;if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Firefox/.test(ua)){cl += " bx-firefox";}ht.className = htc ? htc + " " + cl : cl;})(window, document, navigator);</script>
+
+
+<link href="/bitrix/cache/css/s1/new2020/page_605f5a108a5982c2dff063304bad1e5a/page_605f5a108a5982c2dff063304bad1e5a_v1.css?16799043526521" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/new2020/template_dbd5e839c271d69422dc65e328c189d0/template_dbd5e839c271d69422dc65e328c189d0_v1.css?1680169118549504" type="text/css"  data-template-style="true" rel="stylesheet" />
+ 
+		
+
+
+
+
+
+
+<!-- dev2fun module opengraph -->
+<meta property="og:title" content="CARSWEEK.RU - автомобильный портал"/>
+<meta property="og:description" content="Carsweek.ru - автопортал, новости автомира, объявления о продаже новых и бу машин, тест-драйвы, автомобильный каталог, отзывы и полезные советы автолюбителям"/>
+<meta property="og:url" content="https://carsweek.ru/"/>
+<meta property="og:type" content="website"/>
+<meta property="og:site_name" content="carsweek.ru"/>
+<!-- /dev2fun module opengraph -->
+
+
+
+ 
+								
+		<!-- Google Tag Manager -->
+				<!-- End Google Tag Manager -->
+
+	</head>
+
+	<body>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PXD7JF4"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+
+				 
+		 
+		
+		<div id="nw-content">
+			<div id="page">
+				<div id="panel"></div>
+
+				<header class="new">
+					<div class="header-new">
+						<div class="header-new-top">
+							<div class="headerm">
+								<a href="#menu"><span></span></a>
+							</div>
+							<a class="logo" href="/"><img class="logo" src="/bitrix/templates/new2020/images/logo-new.png" alt="carsweek.ru"></a>
+							<nav class="top-menu nav">
+								<div class="bx_sitemap">
+									<ul id="horizontal-multilevel-menu">
+
+
+	
+	
+					<li><a href="/board/all/" class="root-item">Купить авто</a>
+				<ul>
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/board/all/" >Все авто</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/board/used/" >Б/у авто</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/board/new/" >Новые авто</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/catalogue/" >Каталог</a></li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+					<li><a href="/news/" class="root-item">Автоновости</a>
+				<ul>
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/news/" >Все автоновости </a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/news/supercars/" >Суперкары</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/news/tuning/" >Тюнинг авто</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/news/autosport/" >Автоспорт</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/news/moto/" >Мото</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/news/law/" >Закон</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/news/avtonovinki/" > Автоновинки</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/news/dtp/" >Дтп</a></li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li><a href="/test-drive/" class="root-item">Тесты</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/autoservice/" class="root-item">Автосервисы</a></li>
+			
+		
+	
+	
+
+	
+	
+					<li><a href="/day_reviews/" class="root-item">Автообзоры</a>
+				<ul>
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/sovety/" >Советы</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/test-drive/" >Тест-драйв</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/second-hands/" >Вторые руки</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/car-repair/" >Ремонт авто</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/auto-right/" >Авто право</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/articles/" >Статьи</a></li>
+			
+		
+	
+	
+
+	</ul></li>
+</ul>
+<div class="menu-clear-left"></div>
+								</div>
+							</nav>
+							<a class="addob" href="/board/add.php?edit=Y"> <span class="on2">Добавить</span><span class="on">Добавить объявление</span></a>
+															<!-- Форма авторизации -->
+								<div class="formaut">
+																	<a class="log_ic" href="/personal/"><span>Личный кабинет</span></a>
+									
+																</div>
+														<div class="clear"></div>
+						</div>
+						
+
+					</div>
+				</header>
+				<div class="nw-panel">
+													<ul class="nw-breadcrumbs">
+											</ul>
+								</div>
+				<div class="clear"></div>
+
+<div class="main-wrap">
+
+<div class="news-main">
+	<div class="news-day">
+		<a class="news-img" href="/news/News_in_the_world/1275206/"><img src="/upload/resize_cache/iblock/a33/590_330_2/9wbzqedcgmkas8eq2jtq86ya9narfemg.jpg" border="0" alt="Составлен ТОП-10 самых недорогих седанов в России в августе 2023 года" /></a>
+		<span>13 августа 2023</span>
+		<div class="news-overview">
+			<a href="/news/News_in_the_world/1275206/">Составлен ТОП-10 самых недорогих седанов в России в августе 2023 года</a>
+		</div>		
+	</div>
+		<div class="news-side">
+		<div class="news-item">
+			<a class="news-img" href="/news/News_in_the_world/1275243/"><img src="/upload/resize_cache/iblock/1fe/280_160_2/i1t9ktdbwh8s157m0sycwqim2g7go2vx.webp"  border="0" alt="KIA провела мероприятие по обновлению программного обеспечения для защиты от краж " /></a>
+			<div class="news-overview">
+				<a href="/news/News_in_the_world/1275243/">KIA провела мероприятие...</a>
+			</div>
+		</div>
+			<div class="news-item">
+			<a class="news-img" href="/news/News_in_the_world/1275242/"><img src="/upload/resize_cache/iblock/1ec/280_160_2/dm70fx0rrkzsp0lfsozu80941n2nbuc5.webp"  border="0" alt="Кроссовер Audi Q8 заработал пятизвездочный рейтинг безопасности NHTSA " /></a>
+			<div class="news-overview">
+				<a href="/news/News_in_the_world/1275242/">Кроссовер Audi Q8 заработал...</a>
+			</div>
+		</div>
+		
+	</div>
+	
+</div>
+<div style="clear:both;"><br></div>
+</div>
+<aside>	
+
+<!-- Yandex.RTB R-A-149162-15 -->
+<div id="yandex_rtb_R-A-149162-15"></div>
+
+</aside>
+
+<div style="clear:both;"><br></div><div class="title title2">
+			<span>Популярные марки</span>
+		</div> 
+		 <div class="jcarousel-wrapper slider sl2">
+			<div class="jcarousel sl2">
+				<ul>
+																										<li>
+								<a href="/catalogue/vaz/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/d92/70_70_1/d927abd31f299b8a84062f9c79c7b886.jpg" width="70" height="70" alt="LADA (ВАЗ)" title="LADA (ВАЗ)" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/ford/">
+									<img class="color-efekt" style="margin-top: 25px" border="0" src="/upload/resize_cache/iblock/c1c/70_70_1/c1cf3279f3b13a0a05d1ef98ca9bd2a7.jpg" width="70" height="30" alt="Ford" title="Ford" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/bmw/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/be1/70_70_1/be13e2a0b1e8654aee306cef1516aa51.jpg" width="70" height="70" alt="BMW" title="BMW" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/audi/">
+									<img class="color-efekt" style="margin-top: 13px" border="0" src="/upload/resize_cache/iblock/96d/70_70_1/96d3f0d0ecc43dd783d15ef38d0d2c9b.png" width="70" height="54" alt="Audi" title="Audi" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/hyundai/">
+									<img class="color-efekt" style="margin-top: 20.5px" border="0" src="/upload/resize_cache/iblock/f72/70_70_1/f72388ee2ad37f85cbb85f9cfe93fac3.jpg" width="70" height="39" alt="Hyundai" title="Hyundai" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/kia/">
+									<img class="color-efekt" style="margin-top: 21px" border="0" src="/upload/resize_cache/iblock/db7/70_70_1/db770515370f0bd4563c1767038519dd.jpg" width="70" height="38" alt="Kia" title="Kia" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/toyota/">
+									<img class="color-efekt" style="margin-top: 13px" border="0" src="/upload/resize_cache/iblock/f7a/70_70_1/f7aab4924f65bd47c039f5ebd98f0b6c.jpg" width="70" height="54" alt="Toyota" title="Toyota" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/mercedes/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/0cd/70_70_1/0cd94758da898659599ff3c389993fc1.jpg" width="70" height="70" alt="Mercedes-Benz" title="Mercedes-Benz" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/mitsubishi/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/a7c/70_70_1/a7c7c1eed7ab4f860d9c5cbf3c10e270.jpg" width="66" height="70" alt="Mitsubishi" title="Mitsubishi" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/volkswagen/">
+									<img class="color-efekt" style="margin-top: 5.5px" border="0" src="/upload/resize_cache/iblock/e08/70_70_1/e085b83e46ccd0bfd111bf17f3bc3784.jpg" width="70" height="69" alt="Volkswagen" title="Volkswagen" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/mazda/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/0c0/70_70_1/0c0bccb81484f5a1ed05cb407b8cc557.jpg" width="69" height="70" alt="Mazda" title="Mazda" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/honda/">
+									<img class="color-efekt" style="margin-top: 12px" border="0" src="/upload/resize_cache/iblock/664/70_70_1/6646650cad37d851dbb30a2c803aaa7c.jpg" width="70" height="56" alt="Honda" title="Honda" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/lexus/">
+									<img class="color-efekt" style="margin-top: 15px" border="0" src="/upload/resize_cache/iblock/ba7/70_70_1/ba73dddfe933ca5ce43b8615e0ad04bb.jpg" width="70" height="50" alt="Lexus" title="Lexus" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/peugeot/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/c83/70_70_1/c830fe054d39c419b349d31edba9c1b4.jpg" width="59" height="70" alt="Peugeot" title="Peugeot" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/opel/">
+									<img class="color-efekt" style="margin-top: 15.5px" border="0" src="/upload/resize_cache/iblock/d57/70_70_1/d57a5dcc68e823dd6d3d015bb1d32d5d.jpg" width="70" height="49" alt="Opel" title="Opel" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/porsche/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/aac/70_70_1/aac4d88173dbd25e225c44bb5190df36.jpg" width="70" height="70" alt="Porsche" title="Porsche" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/renault/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/3d3/70_70_1/3d3c00de8a60b7603c18e08a9a7be728.jpg" width="56" height="70" alt="Renault" title="Renault" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/volvo/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/26f/70_70_1/26f125049dc274c92a8ff80bc7693232.jpg" width="70" height="70" alt="Volvo" title="Volvo" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/chevrolet/">
+									<img class="color-efekt" style="margin-top: 22.5px" border="0" src="/upload/resize_cache/iblock/e0b/70_70_1/e0b27592aaf3d2422a4c718a19c6332f.jpg" width="70" height="35" alt="Chevrolet" title="Chevrolet" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/infiniti/">
+									<img class="color-efekt" style="margin-top: 21.5px" border="0" src="/upload/resize_cache/iblock/c55/70_70_1/c5511f35c7f10235dd74332dce737bff.jpg" width="70" height="37" alt="Infiniti" title="Infiniti" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/skoda/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/d40/70_70_1/d40077dd9ef6dfc4f7d7e798c87125c3.jpg" width="70" height="70" alt="Skoda" title="Skoda" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/uaz/">
+									<img class="color-efekt" style="margin-top: 11px" border="0" src="/upload/resize_cache/iblock/814/70_70_1/814d1c46de0575c8fa5c86c519e8c4ac.jpg" width="70" height="58" alt="УАЗ" title="УАЗ" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/jeep/">
+									<img class="color-efekt" style="margin-top: 12.5px" border="0" src="/upload/resize_cache/iblock/253/70_70_1/253447b450ac2629d71ee12974875ab6.jpg" width="70" height="55" alt="Jeep" title="Jeep" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/gaz/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/1bf/70_70_1/1bf6f236ba704e42a0676729528d09d1.gif" width="69" height="70" alt="ГАЗ" title="ГАЗ" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Jaguar/">
+									<img class="color-efekt" style="margin-top: 20.5px" border="0" src="/upload/resize_cache/iblock/98c/70_70_1/98c4e2791d6ca6f8d851cd4139f0e369.jpg" width="70" height="39" alt="Jaguar" title="Jaguar" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/citroen/">
+									<img class="color-efekt" style="margin-top: 9.5px" border="0" src="/upload/resize_cache/iblock/fe7/70_70_1/fe7671a183d130a544538ae649f1825d.jpg" width="70" height="61" alt="Citroen" title="Citroen" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/daewoo/">
+									<img class="color-efekt" style="margin-top: 21px" border="0" src="/upload/resize_cache/iblock/ea6/70_70_1/ea6e75fc9ba4d2c1d0ec886fc7eacdb7.jpg" width="70" height="38" alt="Daewoo" title="Daewoo" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/nissan/">
+									<img class="color-efekt" style="margin-top: 10.5px" border="0" src="/upload/resize_cache/iblock/404/70_70_1/4049f600e35b4dfb136443cfd2c16655.jpg" width="70" height="59" alt="Nissan" title="Nissan" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/subaru/">
+									<img class="color-efekt" style="margin-top: 15px" border="0" src="/upload/resize_cache/iblock/7e4/70_70_1/7e4a72e0b1b3a2a8ab310e95a5f402c9.jpg" width="70" height="50" alt="Subaru" title="Subaru" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/cadillac/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/fa1/70_70_1/fa163010f97ac42b61a6ecab3df18986.jpg" width="70" height="70" alt="Cadillac" title="Cadillac" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/ravon/">
+									<img class="color-efekt" style="margin-top: 7px" border="0" src="/upload/resize_cache/iblock/33f/70_70_1/33fc0910efbb7590a81926884322099c.jpg" width="70" height="66" alt="Ravon" title="Ravon" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/land_rover/">
+									<img class="color-efekt" style="margin-top: 21.5px" border="0" src="/upload/resize_cache/iblock/cad/70_70_1/cad3b796025c797c1695a58cc21f0a98.jpg" width="70" height="37" alt="Land Rover" title="Land Rover" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/zotye/">
+									<img class="color-efekt" style="margin-top: 10.5px" border="0" src="/upload/resize_cache/iblock/7c5/70_70_1/7c5d9424b4372592aa1edecbb6649a13.gif" width="70" height="59" alt="Zotye" title="Zotye" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/fiat/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/9f9/70_70_1/9f9167bf0ccfdcf5323beb6cf5ed6557.jpg" width="70" height="70" alt="Fiat" title="Fiat" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/lifan/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/acb/70_70_1/acba38f287e618f0323432ed88ac5dc6.jpg" width="70" height="70" alt="Lifan" title="Lifan" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/JAC/">
+									<img class="color-efekt" style="margin-top: 13.5px" border="0" src="/upload/resize_cache/iblock/613/70_70_1/613bafdb66123de291aa41dcebc54659.jpg" width="70" height="53" alt="JAC" title="JAC" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Bentley/">
+									<img class="color-efekt" style="margin-top: 23.5px" border="0" src="/upload/resize_cache/iblock/466/70_70_1/466c1792279af763ee7f931efcbf7be6.jpg" width="70" height="33" alt="Bentley" title="Bentley" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/chery/">
+									<img class="color-efekt" style="margin-top: 14px" border="0" src="/upload/resize_cache/iblock/a20/70_70_1/a20e24c0add1dbbb3886b7de8d5af316.jpg" width="70" height="52" alt="Chery" title="Chery" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/suzuki/">
+									<img class="color-efekt" style="margin-top: 14px" border="0" src="/upload/resize_cache/iblock/86d/70_70_1/86d8fd7e308a386383407146250cf03e.jpg" width="70" height="52" alt="Suzuki" title="Suzuki" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/ssangyong/">
+									<img class="color-efekt" style="margin-top: 18.5px" border="0" src="/upload/resize_cache/iblock/d29/70_70_1/d29d9e012157ad2b970ff72a6b895904.jpg" width="70" height="43" alt="SsangYong" title="SsangYong" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Lamborghini/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/a54/70_70_1/a5498a444d2348598af78d4ef68a14dd.jpg" width="70" height="70" alt="Lamborghini" title="Lamborghini" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Ferrari/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/d94/70_70_1/d943233f47194770cb30d7a1484b560b.jpg" width="53" height="70" alt="Ferrari" title="Ferrari" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/geely/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/77f/70_70_1/77f827d73f382a300c7059ba68d4b591.jpg" width="69" height="70" alt="Geely" title="Geely" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/mini/">
+									<img class="color-efekt" style="margin-top: 25px" border="0" src="/upload/resize_cache/iblock/355/70_70_1/355dfb0de44f8f113e8c8af3a33e9e44.jpg" width="70" height="30" alt="MINI" title="MINI" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Changan/">
+									<img class="color-efekt" style="margin-top: 9.5px" border="0" src="/upload/resize_cache/iblock/7c0/70_70_1/7c0b88d66c5faf82b15efb7066982128.jpg" width="70" height="61" alt="Changan" title="Changan" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/chrysler/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/aa5/70_70_1/aa538188faf8f0b7f6b3452367fe9a92.jpg" width="61" height="70" alt="Chrysler" title="Chrysler" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Haval/">
+									<img class="color-efekt" style="margin-top: 18px" border="0" src="/upload/resize_cache/iblock/fc4/70_70_1/fc448bd998ba232331357f1ad1fbfe1a.jpg" width="70" height="44" alt="Haval" title="Haval" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/dodge/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/1b7/70_70_1/1b7a83b14823241c259c24fc0d9fe255.jpg" width="68" height="70" alt="Dodge" title="Dodge" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/hummer/">
+									<img class="color-efekt" style="margin-top: 7px" border="0" src="/upload/resize_cache/iblock/c25/70_70_1/c25781385c130ff4140563aacf4e3bdb.jpg" width="70" height="66" alt="Hummer" title="Hummer" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/acura/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/500/70_70_1/500313919c05f6d88923323378ca78d1.jpg" width="70" height="70" alt="Acura" title="Acura" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/DeLorean/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/1fd/70_70_1/1fd18c2cd2877f16dfeb2b96c20f95c3.jpg" width="70" height="70" alt="DeLorean" title="DeLorean" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Marlin/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/da8/70_70_1/da8db030ed49fdbc8f3dcc2948d379a1.jpg" width="70" height="70" alt="Marlin" title="Marlin" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/SAIPA/">
+									<img class="color-efekt" style="margin-top: 8.5px" border="0" src="/upload/resize_cache/iblock/215/70_70_1/215cda19200787a856311439340d6812.jpg" width="70" height="63" alt="Saipa" title="Saipa" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Saleen/">
+									<img class="color-efekt" style="margin-top: 16.5px" border="0" src="/upload/resize_cache/iblock/c59/70_70_1/c591616a8f7104c18a96e5589751db1d.jpg" width="70" height="47" alt="Saleen" title="Saleen" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Dadi/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/ce1/70_70_1/ce1e74f70d764824bd4989c37b0b295d.jpg" width="70" height="70" alt="Dadi" title="Dadi" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Vauxhall/">
+									<img class="color-efekt" style="margin-top: 5.5px" border="0" src="/upload/resize_cache/iblock/bf7/70_70_1/bf78bba86f849987e2a5c18deeebae38.jpg" width="70" height="69" alt="Vauxhall" title="Vauxhall" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Noble/">
+									<img class="color-efekt" style="margin-top: 9px" border="0" src="/upload/resize_cache/iblock/a13/70_70_1/a138a0f521d29ce8bb81bfa57e57baea.jpg" width="70" height="62" alt="Noble" title="Noble" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Scion/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/7c2/70_70_1/7c27d021a601bc527977a91fca86d0ee.jpg" width="70" height="70" alt="Scion" title="Scion" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Moskvich/">
+									<img class="color-efekt" style="margin-top: 5.5px" border="0" src="/upload/resize_cache/iblock/43f/70_70_1/43f3d315d1c4a22d9637bcef141314ad.gif" width="70" height="69" alt="Москвич" title="Москвич" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/DongFeng/">
+									<img class="color-efekt" style="margin-top: 7px" border="0" src="/upload/resize_cache/iblock/1bb/70_70_1/1bb66d3a2134359baa0d66fc276707ff.jpg" width="70" height="66" alt="DongFeng" title="DongFeng" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Vector/">
+									<img class="color-efekt" style="margin-top: 12px" border="0" src="/upload/resize_cache/iblock/3c7/70_70_1/3c7553bac81150ff6a6eae081bdc6099.jpg" width="70" height="56" alt="Vector" title="Vector" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Adler/">
+									<img class="color-efekt" style="margin-top: 10.5px" border="0" src="/upload/resize_cache/iblock/433/70_70_1/43399eeef163c6d618faf368e93aac79.jpg" width="70" height="59" alt="Adler" title="Adler" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Gordon/">
+									<img class="color-efekt" style="margin-top: 10.5px" border="0" src="/upload/resize_cache/iblock/549/70_70_1/5494411bd796f84f04b9d9b4eec9684c.jpg" width="70" height="59" alt="Gordon" title="Gordon" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Haima/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/a6d/70_70_1/a6df429e74ea04f6a94026e90b519f86.jpg" width="70" height="70" alt="Haima" title="Haima" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Tramontana/">
+									<img class="color-efekt" style="margin-top: 16.5px" border="0" src="/upload/resize_cache/iblock/bab/70_70_1/bab370b0265f19fba1eeef0b71e4d11f.jpg" width="70" height="47" alt="Tramontana" title="Tramontana" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/De_Tomaso/">
+									<img class="color-efekt" style="margin-top: 13px" border="0" src="/upload/resize_cache/iblock/b55/70_70_1/b55ba5a5bfea78a6bb94972e7452c7fb.jpg" width="70" height="54" alt="De Tomaso" title="De Tomaso" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/tagaz/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/297/70_70_1/297d9c63c34d4c22b2ffeee84eee28e6.gif" width="70" height="70" alt="ТагАЗ" title="ТагАЗ" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Marcos/">
+									<img class="color-efekt" style="margin-top: 6.5px" border="0" src="/upload/resize_cache/iblock/4f8/70_70_1/4f8f8cf9edf05aa6543d48a5d34bcaa7.jpg" width="70" height="67" alt="Marcos" title="Marcos" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Renaissance/">
+									<img class="color-efekt" style="margin-top: 10.5px" border="0" src="/upload/resize_cache/iblock/047/70_70_1/0476d2d5dd7b0b976d348172e639230c.jpg" width="70" height="59" alt="Renaissance" title="Renaissance" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/luxgen/">
+									<img class="color-efekt" style="margin-top: 11.5px" border="0" src="/upload/resize_cache/iblock/f2c/70_70_1/f2c85b9c8a7d19e5cd543c27deb523e9.jpg" width="70" height="57" alt="Luxgen" title="Luxgen" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Rimac/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/48b/70_70_1/48b69f4b8e395dc76d6eed46c7ece69e.jpg" width="70" height="70" alt="Rimac" title="Rimac" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Think/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/ce8/70_70_1/ce8fb6bfacabe4d5278ff12b149393a0.jpg" width="70" height="70" alt="Think" title="Think" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Ronart/">
+									<img class="color-efekt" style="margin-top: 19px" border="0" src="/upload/resize_cache/iblock/7e7/70_70_1/7e72a4e282e3d036748122d91fd6d943.jpg" width="70" height="42" alt="Ronart" title="Ronart" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/JMC/">
+									<img class="color-efekt" style="margin-top: 17px" border="0" src="/upload/resize_cache/iblock/964/70_70_1/9641e80b7fd56817e43d1615ee4af5ff.jpg" width="70" height="46" alt="JMC" title="JMC" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/JINBEI/">
+									<img class="color-efekt" style="margin-top: 5.5px" border="0" src="/upload/resize_cache/iblock/890/70_70_1/89097ac46d5611c9a8c64532f06e50bd.jpg" width="55" height="69" alt="Jinbei" title="Jinbei" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Eagle/">
+									<img class="color-efekt" style="margin-top: 10.5px" border="0" src="/upload/resize_cache/iblock/4e1/70_70_1/4e1cb2b9f6217c8e7c84274eca406f85.jpg" width="70" height="59" alt="Eagle" title="Eagle" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/ChangFeng/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/2b2/70_70_1/2b20baaf2344f3295737fdb66d0c8a3b.jpg" width="70" height="70" alt="ChangFeng" title="ChangFeng" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Alpina/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/c06/70_70_1/c06b2c34a8c31901a887594ed96db33b.jpg" width="70" height="70" alt="Alpina" title="Alpina" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Lancia/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/372/70_70_1/3720b9db2afa6ecc9b72aee06c4d98fa.jpg" width="69" height="70" alt="Lancia" title="Lancia" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Xin_Kai/">
+									<img class="color-efekt" style="margin-top: 16px" border="0" src="/upload/resize_cache/iblock/1da/70_70_1/1da1e7e19c2aa2e8db94ea59303eef16.gif" width="70" height="48" alt="Xin Kai" title="Xin Kai" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/faw/">
+									<img class="color-efekt" style="margin-top: 18.5px" border="0" src="/upload/resize_cache/iblock/73a/70_70_1/73a356c6fcb68d06084de89567f24373.jpg" width="70" height="43" alt="FAW" title="FAW" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Combat/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/fe6/70_70_1/fe6ea1aa8129be35540694ee3f052280.gif" width="70" height="70" alt="Комбат" title="Комбат" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/BAIC/">
+									<img class="color-efekt" style="margin-top: 11.5px" border="0" src="/upload/resize_cache/iblock/7b2/70_70_1/7b2dd8ea9783924b0da7a6f89ce68721.jpg" width="70" height="57" alt="BAIC" title="BAIC" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/GP/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/586/70_70_1/586873d49fb3434372071e11251c8fcd.jpg" width="52" height="70" alt="GP" title="GP" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/DS/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/119/70_70_1/11993d9ca2a0eb3e47148989e8b824c4.jpg" width="58" height="70" alt="DS" title="DS" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Geo/">
+									<img class="color-efekt" style="margin-top: 20.5px" border="0" src="/upload/resize_cache/iblock/f9f/70_70_1/f9f1b954835a101205b6b92255c1d30e.jpg" width="70" height="39" alt="Geo" title="Geo" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Hanomag/">
+									<img class="color-efekt" style="margin-top: 10.5px" border="0" src="/upload/resize_cache/iblock/622/70_70_1/622ecd607367c627e3242857cf885c02.jpg" width="70" height="59" alt="Hanomag" title="Hanomag" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Rezvani/">
+									<img class="color-efekt" style="margin-top: 21.5px" border="0" src="/upload/resize_cache/iblock/cd8/70_70_1/cd85ac1dad54b2ff4fed53b5985bc891.jpg" width="70" height="37" alt="Rezvani" title="Rezvani" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Maybach/">
+									<img class="color-efekt" style="margin-top: 13px" border="0" src="/upload/resize_cache/iblock/aca/70_70_1/acaf1cce8680bfd801c805ec6a56e40e.jpg" width="70" height="54" alt="Maybach" title="Maybach" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Asia/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/fbe/70_70_1/fbecc1d1d20d14f3977c668081414745.jpg" width="70" height="70" alt="Asia" title="Asia" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Byvin/">
+									<img class="color-efekt" style="margin-top: 12.5px" border="0" src="/upload/resize_cache/iblock/a2f/70_70_1/a2f5178d677bc6be6bda05ec2d11c080.jpg" width="70" height="55" alt="Byvin" title="Byvin" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Eagle_Cars/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/91f/70_70_1/91f6d7c9ef7a4edf16c02f0a6d7816df.jpg" width="70" height="70" alt="Eagle Cars" title="Eagle Cars" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Donkervoort/">
+									<img class="color-efekt" style="margin-top: 22.5px" border="0" src="/upload/resize_cache/iblock/e37/70_70_1/e37b1c8f8b2a83094c3c3a4a69ead727.jpg" width="70" height="35" alt="Donkervoort" title="Donkervoort" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/McLaren/">
+									<img class="color-efekt" style="margin-top: 20px" border="0" src="/upload/resize_cache/iblock/3f9/70_70_1/3f9416b0b3996a7a65e2603899d435f4.jpg" width="70" height="40" alt="McLaren" title="McLaren" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/GMC/">
+									<img class="color-efekt" style="margin-top: 24.5px" border="0" src="/upload/resize_cache/iblock/1a9/70_70_1/1a9ab1d8e94219a332c2c49ef7c9821b.jpg" width="70" height="31" alt="GMC" title="GMC" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Koenigsegg/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/275/70_70_1/2751fbec6f10f12d525f66202ec1db08.jpg" width="70" height="70" alt="Koenigsegg" title="Koenigsegg" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/marussia/">
+									<img class="color-efekt" style="margin-top: 9px" border="0" src="/upload/resize_cache/iblock/f7c/70_70_1/f7c9185185b37f13e2a2ba0d38246485.jpg" width="70" height="62" alt="Marussia" title="Marussia" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Mitsuoka/">
+									<img class="color-efekt" style="margin-top: 10px" border="0" src="/upload/resize_cache/iblock/285/70_70_1/285089f032300505e40bdb519aaf4a79.jpg" width="70" height="60" alt="Mitsuoka" title="Mitsuoka" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Minelli/">
+									<img class="color-efekt" style="margin-top: 14.5px" border="0" src="/upload/resize_cache/iblock/faa/70_70_1/faa952c0cb4de88a9b568cbaac86bafc.jpg" width="70" height="51" alt="Minelli" title="Minelli" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/KTM_AG/">
+									<img class="color-efekt" style="margin-top: 19.5px" border="0" src="/upload/resize_cache/iblock/4b7/70_70_1/4b72310c710c0392a6a0a9aa943db135.jpg" width="70" height="41" alt="KTM AG" title="KTM AG" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Gonow/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/a26/70_70_1/a26275ff0281f18baa6ba9a7e3b4e051.jpg" width="70" height="70" alt="Gonow" title="Gonow" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Delage/">
+									<img class="color-efekt" style="margin-top: 16.5px" border="0" src="/upload/resize_cache/iblock/b4c/70_70_1/b4c4fcb4b6d7eae0b36cc099dea9fbea.jpg" width="70" height="47" alt="Delage" title="Delage" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Holden/">
+									<img class="color-efekt" style="margin-top: 5.5px" border="0" src="/upload/resize_cache/iblock/ae7/70_70_1/ae7ab7cc728a0c5893f662d7f14cf042.jpg" width="70" height="69" alt="Holden" title="Holden" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Autobianchi/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/15c/70_70_1/15c540e9904e76324b76321dfa713a8f.jpg" width="70" height="70" alt="Autobianchi" title="Autobianchi" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Ultima/">
+									<img class="color-efekt" style="margin-top: 21px" border="0" src="/upload/resize_cache/iblock/723/70_70_1/72387051188e283032360d84386bc025.jpg" width="70" height="38" alt="Ultima" title="Ultima" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Renault_Samsung/">
+									<img class="color-efekt" style="margin-top: 20px" border="0" src="/upload/resize_cache/iblock/e43/70_70_1/e433328bc224b41865da874ec5a65571.jpg" width="70" height="40" alt="Renault Samsung" title="Renault Samsung" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/FSO/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/bc3/70_70_1/bc335ed89fd7e75a4ff01d4a15b4d972.jpg" width="68" height="70" alt="FSO" title="FSO" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Plymouth/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/90d/70_70_1/90d65d9737e269492270e7d78f230f75.jpg" width="69" height="70" alt="Plymouth" title="Plymouth" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/AUSTIN_HEALEY/">
+									<img class="color-efekt" style="margin-top: 13px" border="0" src="/upload/resize_cache/iblock/ac1/70_70_1/ac184536116baeec2019dc88a9a2e299.jpg" width="70" height="54" alt="Austin Healey" title="Austin Healey" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Zenvo/">
+									<img class="color-efekt" style="margin-top: 9.5px" border="0" src="/upload/resize_cache/iblock/334/70_70_1/33478023f9de4b9d3a73ce018a083403.gif" width="70" height="61" alt="Zenvo" title="Zenvo" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/CORD/">
+									<img class="color-efekt" style="margin-top: 25.5px" border="0" src="/upload/resize_cache/iblock/53d/70_70_1/53dcbae77342c3b4e57295c42f1c95d2.jpg" width="70" height="29" alt="Cord" title="Cord" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/STUDEBAKER/">
+									<img class="color-efekt" style="margin-top: 9px" border="0" src="/upload/resize_cache/iblock/5e1/70_70_1/5e174607190be3a301f12a365d68ca2e.jpg" width="70" height="62" alt="Studebaker" title="Studebaker" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/CHANGHE/">
+									<img class="color-efekt" style="margin-top: 15.5px" border="0" src="/upload/resize_cache/iblock/e97/70_70_1/e971e8f3cd4d2b56f065eb8796615fb8.jpg" width="70" height="49" alt="Changhe" title="Changhe" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/BYD/">
+									<img class="color-efekt" style="margin-top: 9.5px" border="0" src="/upload/resize_cache/iblock/44e/70_70_1/44e74ed4e3d86f1b94d2893a866c0be0.jpg" width="70" height="61" alt="BYD" title="BYD" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Tesla/">
+									<img class="color-efekt" style="margin-top: 13px" border="0" src="/upload/resize_cache/iblock/b94/70_70_1/b94ff4de20be49534f8dd236468e5509.jpg" width="70" height="54" alt="Tesla" title="Tesla" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/AURUS/">
+									<img class="color-efekt" style="margin-top: 14px" border="0" src="/upload/resize_cache/iblock/0d6/70_70_1/0d6619e0f68b3b9957d82f96f20f8990.jpg" width="70" height="52" alt="Aurus" title="Aurus" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Morgan/">
+									<img class="color-efekt" style="margin-top: 11.5px" border="0" src="/upload/resize_cache/iblock/663/70_70_1/663d0d1edc52d6dff0b5484b513c684b.jpg" width="70" height="57" alt="Morgan" title="Morgan" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/AMC/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/11f/70_70_1/11fae831db2337bb63ada8a8b2aea5a7.jpg" width="70" height="70" alt="AMC" title="AMC" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Tianma/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/a58/70_70_1/a58b90c391d249bbcc2a9348fcaf1989.jpg" width="70" height="70" alt="Tianma" title="Tianma" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Piaggio/">
+									<img class="color-efekt" style="margin-top: 7px" border="0" src="/upload/resize_cache/iblock/d4c/70_70_1/d4c7b6f21f20481168344966f0a6a418.jpg" width="70" height="66" alt="Piaggio" title="Piaggio" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Excalibur/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/97f/70_70_1/97f986db0402e1f41e6b80c4cab0f573.jpg" width="70" height="70" alt="Excalibur" title="Excalibur" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/HuangHai/">
+									<img class="color-efekt" style="margin-top: 13px" border="0" src="/upload/resize_cache/iblock/b61/70_70_1/b614686f23e9f3c7759a89ed3f7155de.jpg" width="70" height="54" alt="HuangHai" title="HuangHai" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Daimler/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/efa/70_70_1/efaab7fef6450270d6ac623ef3eddc7a.jpg" width="70" height="70" alt="Daimler" title="Daimler" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Mahindra/">
+									<img class="color-efekt" style="margin-top: 17px" border="0" src="/upload/resize_cache/iblock/cea/70_70_1/ceaad28d2394c954484188ceb41d3b35.jpg" width="70" height="46" alt="Mahindra" title="Mahindra" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Oldsmobile/">
+									<img class="color-efekt" style="margin-top: 20.5px" border="0" src="/upload/resize_cache/iblock/1e2/70_70_1/1e2e17bb332a49e0e8aae3b3139c0033.jpg" width="70" height="39" alt="Oldsmobile" title="Oldsmobile" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Osca/">
+									<img class="color-efekt" style="margin-top: 5.5px" border="0" src="/upload/resize_cache/iblock/0a9/70_70_1/0a97915c41170af6b758692fd4dc69be.jpg" width="70" height="69" alt="Osca" title="Osca" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/ZIL/">
+									<img class="color-efekt" style="margin-top: 32.5px" border="0" src="/upload/resize_cache/iblock/c1f/70_70_1/c1f0947473097a503da7fced20d82c14.gif" width="70" height="15" alt="ЗИЛ" title="ЗИЛ" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/IZH/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/bcb/70_70_1/bcbbd1ebb1b24fd6032282ea95746997.gif" width="70" height="70" alt="ИЖ" title="ИЖ" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/FLANKER/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/fc4/70_70_1/fc480a17620f3af447fa5fce84e58025.jpg" width="64" height="70" alt="Flanker" title="Flanker" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/HORCH/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/ad0/70_70_1/ad0c5b210ff121b4b17a7885ab94918d.jpg" width="55" height="70" alt="Horch" title="Horch" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Hawtai/">
+									<img class="color-efekt" style="margin-top: 17.5px" border="0" src="/upload/resize_cache/iblock/d2b/70_70_1/d2bb7f45f6c1316a3247a8bb7870ef0d.jpg" width="70" height="45" alt="Hawtai" title="Hawtai" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Willys/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/36c/70_70_1/36c7e73d7403caf4063b7f9b39b47aee.gif" width="66" height="70" alt="Willys" title="Willys" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Iran_Khodro/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/49a/70_70_1/49a8a80eb3722b4f110e99efe5970a5c.jpg" width="63" height="70" alt="Iran Khodro" title="Iran Khodro" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Brilliance/">
+									<img class="color-efekt" style="margin-top: 17px" border="0" src="/upload/resize_cache/iblock/aec/70_70_1/aec9c5aef558c54bd8b6fc54e84076ea.jpg" width="70" height="46" alt="Brilliance" title="Brilliance" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/PGO/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/327/70_70_1/3272ba20a6026bea6725b9d1288698a6.jpg" width="70" height="70" alt="PGO" title="PGO" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Westfield/">
+									<img class="color-efekt" style="margin-top: 5.5px" border="0" src="/upload/resize_cache/iblock/31a/70_70_1/31ae5b32d3ca9b3164e726f38af005bd.gif" width="70" height="69" alt="Westfield" title="Westfield" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Wiesmann/">
+									<img class="color-efekt" style="margin-top: 11.5px" border="0" src="/upload/resize_cache/iblock/1a8/70_70_1/1a89724061e3b7c66f211b4ddc53e9a5.gif" width="70" height="57" alt="Wiesmann" title="Wiesmann" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/SIMCA/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/a94/70_70_1/a94b5a39a8ea94ea78564f57f6a1d329.jpg" width="70" height="70" alt="Simca" title="Simca" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Avtokam/">
+									<img class="color-efekt" style="margin-top: 6.5px" border="0" src="/upload/resize_cache/iblock/75b/70_70_1/75ba84f093123a0702ea518682cbf9ef.gif" width="70" height="67" alt="Автокам" title="Автокам" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Perodua/">
+									<img class="color-efekt" style="margin-top: 14px" border="0" src="/upload/resize_cache/iblock/488/70_70_1/48825ca8a59a6b130530005352020f2e.jpg" width="70" height="52" alt="Perodua" title="Perodua" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Daihatsu/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/3cc/70_70_1/3cc18bfda3a18dc17766f72ecb148278.jpg" width="66" height="70" alt="Daihatsu" title="Daihatsu" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/SMZ/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/f76/70_70_1/f76e863a52d8c9e3cca5908bfc560c2c.gif" width="69" height="70" alt="СМЗ" title="СМЗ" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Bitter/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/b3b/70_70_1/b3b70c2a610a3d4a8e17a1b01940f0a7.jpg" width="65" height="70" alt="Bitter" title="Bitter" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Talbot/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/453/70_70_1/4533e9add3bb539ad8ca46b23deaaabe.jpg" width="70" height="70" alt="Talbot" title="Talbot" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Aro/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/4f5/70_70_1/4f5a6f87b788f675a4b80c94298cdd62.jpg" width="70" height="70" alt="Aro" title="Aro" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/ye_mobil/">
+									<img class="color-efekt" style="margin-top: 7px" border="0" src="/upload/resize_cache/iblock/e97/70_70_1/e97fe3168fc64b20a9ef7068678f4a43.gif" width="70" height="66" alt="Ё-мобиль" title="Ё-мобиль" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/genesis/">
+									<img class="color-efekt" style="margin-top: 22.5px" border="0" src="/upload/resize_cache/iblock/a0c/70_70_1/a0c149a4c97c183e4c86ce6d2c36643c.jpg" width="70" height="35" alt="Genesis" title="Genesis" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/desoto/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/8fa/70_70_1/8fad419c76ca0faf683639f313ab532c.jpg" width="46" height="70" alt="DeSoto" title="DeSoto" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Canonir/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/306/70_70_1/3062ec060e6adb960ffc01bba1adf614.gif" width="70" height="70" alt="Канонир" title="Канонир" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Brabus/">
+									<img class="color-efekt" style="margin-top: 5.5px" border="0" src="/upload/resize_cache/iblock/04d/70_70_1/04d5997d45419cf1104db3555ed38231.jpg" width="70" height="69" alt="Brabus" title="Brabus" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/seat/">
+									<img class="color-efekt" style="margin-top: 10px" border="0" src="/upload/resize_cache/iblock/a08/70_70_1/a08730d9ca1884dd6372787982dd2e45.jpg" width="70" height="60" alt="SEAT" title="SEAT" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Tazzari/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/60e/70_70_1/60e77e6f0e7471333b05ade5105245c3.jpg" width="70" height="70" alt="Tazzari" title="Tazzari" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Spectre/">
+									<img class="color-efekt" style="margin-top: 18.5px" border="0" src="/upload/resize_cache/iblock/cb1/70_70_1/cb1e7e925b917b8f44a54181ad6e24f4.jpg" width="70" height="43" alt="Spectre" title="Spectre" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/ShuangHuan/">
+									<img class="color-efekt" style="margin-top: 8.5px" border="0" src="/upload/resize_cache/iblock/b68/70_70_1/b68d002cf5f1724cdececcdf698cee8b.jpg" width="70" height="63" alt="ShuangHuan" title="ShuangHuan" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Metrocab/">
+									<img class="color-efekt" style="margin-top: 7px" border="0" src="/upload/resize_cache/iblock/e73/70_70_1/e73672b3a5180502b1fa3da73791f2a8.jpg" width="70" height="66" alt="Metrocab" title="Metrocab" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Shanghai_Maple/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/b5f/70_70_1/b5f472597019b94c389f8b6f068e9dc4.jpg" width="70" height="70" alt="Shanghai Maple" title="Shanghai Maple" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Pontiac/">
+									<img class="color-efekt" style="margin-top: 7px" border="0" src="/upload/resize_cache/iblock/8ab/70_70_1/8ab576af6a51f80336bedcc28a86d703.jpg" width="70" height="66" alt="Pontiac" title="Pontiac" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/smart/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/597/70_70_1/59798610b62c88708ad5a8df75e86684.jpg" width="70" height="70" alt="Smart" title="Smart" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/TVR/">
+									<img class="color-efekt" style="margin-top: 26px" border="0" src="/upload/resize_cache/iblock/daa/70_70_1/daa1e4a48760d63fa645d6f82f6546f8.jpg" width="70" height="28" alt="TVR" title="TVR" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Panoz/">
+									<img class="color-efekt" style="margin-top: 14px" border="0" src="/upload/resize_cache/iblock/1cb/70_70_1/1cbfa73c6b66c15ffe98ae8ab9b06688.jpg" width="70" height="52" alt="Panoz" title="Panoz" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/zaz/">
+									<img class="color-efekt" style="margin-top: 18.5px" border="0" src="/upload/resize_cache/iblock/343/70_70_1/3437701826d7ae750214021beba7e668.gif" width="70" height="43" alt="ЗАЗ" title="ЗАЗ" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/ZX/">
+									<img class="color-efekt" style="margin-top: 27px" border="0" src="/upload/resize_cache/iblock/4a4/70_70_1/4a42d956e8abcb9663e405e3b0a7237c.gif" width="70" height="26" alt="ZX" title="ZX" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Soueast/">
+									<img class="color-efekt" style="margin-top: 13px" border="0" src="/upload/resize_cache/iblock/a0b/70_70_1/a0b8df8a8b5512a523c1b5b340873efe.jpg" width="70" height="54" alt="Soueast" title="Soueast" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Tianye/">
+									<img class="color-efekt" style="margin-top: 12px" border="0" src="/upload/resize_cache/iblock/ac1/70_70_1/ac1aaeddab6c989c715cc5e41432ca69.jpg" width="70" height="56" alt="Tianye" title="Tianye" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Derways/">
+									<img class="color-efekt" style="margin-top: 16px" border="0" src="/upload/resize_cache/iblock/272/70_70_1/2729439831a4c6b8a72d7e3c8d5f88ff.jpg" width="70" height="48" alt="Derways" title="Derways" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Hafei/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/164/70_70_1/1644d8dbf3890eb6c8a88d50af574365.jpg" width="66" height="70" alt="Hafei" title="Hafei" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Zenos/">
+									<img class="color-efekt" style="margin-top: 19.5px" border="0" src="/upload/resize_cache/iblock/e5d/70_70_1/e5d7c12122283cc3afe4fa35b82c7718.gif" width="70" height="41" alt="Zenos" title="Zenos" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Innocenti/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/6b1/70_70_1/6b19a2065ec04ea429cddad077a67213.jpg" width="69" height="70" alt="Innocenti" title="Innocenti" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Fuqi/">
+									<img class="color-efekt" style="margin-top: 18px" border="0" src="/upload/resize_cache/iblock/ce4/70_70_1/ce4a4e78b11cc54f5bff3fce6a15be9a.jpg" width="70" height="44" alt="Fuqi" title="Fuqi" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Hispano-Suiza/">
+									<img class="color-efekt" style="margin-top: 19.5px" border="0" src="/upload/resize_cache/iblock/b42/70_70_1/b42aa07eb2efca0902a4001803256337.jpg" width="70" height="41" alt="Hispano-Suiza" title="Hispano-Suiza" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Reliant/">
+									<img class="color-efekt" style="margin-top: 26.5px" border="0" src="/upload/resize_cache/iblock/53f/70_70_1/53fee420a5c3a21619cbd1eb8a6ce12a.jpg" width="70" height="27" alt="Reliant" title="Reliant" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Callaway/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/34d/70_70_1/34d896ec620320e1a1409ae187bb0591.jpg" width="70" height="70" alt="Callaway" title="Callaway" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Rolls-Royce/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/76d/70_70_1/76d46d37ca44d57bb84892abead5220d.jpg" width="70" height="70" alt="Rolls-Royce" title="Rolls-Royce" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Dacia/">
+									<img class="color-efekt" style="margin-top: 10.5px" border="0" src="/upload/resize_cache/iblock/a6c/70_70_1/a6c4b9e513de105097f8852fabe969c9.jpg" width="69" height="59" alt="Dacia" title="Dacia" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Isdera/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/eb4/70_70_1/eb44df6bcd94e364f7d1f2a8b68ba1c2.jpg" width="49" height="70" alt="Isdera" title="Isdera" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Liebao_Motor/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/7d8/70_70_1/7d8ecb5ebac8b5c44b4bd8d3a6856dbf.jpg" width="70" height="70" alt="Liebao Motor" title="Liebao Motor" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Batmobile/">
+									<img class="color-efekt" style="margin-top: 23px" border="0" src="/upload/resize_cache/iblock/293/70_70_1/2933886be051924d9c2e45e3dde62ff6.jpg" width="70" height="34" alt="Batmobile" title="Batmobile" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Puma/">
+									<img class="color-efekt" style="margin-top: 14px" border="0" src="/upload/resize_cache/iblock/a7d/70_70_1/a7d6056502c04f60bb4c53f271b262bc.jpg" width="70" height="52" alt="Puma" title="Puma" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/LUCID/">
+									<img class="color-efekt" style="margin-top: 21px" border="0" src="/upload/resize_cache/iblock/02b/70_70_1/02b03db30851faa38af01e17bcb01dc4.jpg" width="70" height="38" alt="Lucid" title="Lucid" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Landwind/">
+									<img class="color-efekt" style="margin-top: 9.5px" border="0" src="/upload/resize_cache/iblock/f02/70_70_1/f024f6840437c9c5d9bc47c8fd35db17.jpg" width="70" height="61" alt="Landwind" title="Landwind" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/LIGIER/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/fc3/70_70_1/fc30fff41137dd2aeddd8f6a1477513c.jpg" width="70" height="70" alt="Ligier" title="Ligier" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Maruti/">
+									<img class="color-efekt" style="margin-top: 5.5px" border="0" src="/upload/resize_cache/iblock/2ca/70_70_1/2ca31afdad65798fd58352ce6ea9b667.jpg" width="70" height="69" alt="Maruti" title="Maruti" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Jensen/">
+									<img class="color-efekt" style="margin-top: 32px" border="0" src="/upload/resize_cache/iblock/4be/70_70_1/4be7710b021611f860a4b21ddf122bed.jpg" width="70" height="16" alt="Jensen" title="Jensen" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Borgward/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/7b7/70_70_1/7b71589ce98597a8a1dc8a6683ef95d2.jpg" width="52" height="70" alt="Borgward" title="Borgward" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Bertone/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/698/70_70_1/6986fd566b3de0eafc7f633af645d23a.jpg" width="70" height="70" alt="Bertone" title="Bertone" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/GAC/">
+									<img class="color-efekt" style="margin-top: 18.5px" border="0" src="/upload/resize_cache/iblock/970/70_70_1/970f262629510e10642dd26c88e4220c.jpg" width="70" height="43" alt="GAC" title="GAC" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Lincoln/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/d7f/70_70_1/d7f121ffef582a687633ca96c1ae9de5.jpg" width="70" height="70" alt="Lincoln" title="Lincoln" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Lotus/">
+									<img class="color-efekt" style="margin-top: 5.5px" border="0" src="/upload/resize_cache/iblock/d94/70_70_1/d9427ee79672b37b74bf3524dad23d12.jpg" width="70" height="69" alt="Lotus" title="Lotus" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Bristol/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/94d/70_70_1/94ddc395107bac348208890e0b0d256e.jpg" width="70" height="70" alt="Bristol" title="Bristol" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Carbodies/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/2f4/70_70_1/2f4409fc582f18da5f769f804d22d3b8.jpg" width="70" height="70" alt="Carbodies" title="Carbodies" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Aston_Martin/">
+									<img class="color-efekt" style="margin-top: 20.5px" border="0" src="/upload/resize_cache/iblock/130/70_70_1/130098a0d412a910e22c3b4fb5ee758b.jpg" width="70" height="39" alt="Aston Martin" title="Aston Martin" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Proton/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/a55/70_70_1/a55fa96c390696c8549baae85000d3ca.jpg" width="70" height="70" alt="Proton" title="Proton" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Triumph/">
+									<img class="color-efekt" style="margin-top: 7px" border="0" src="/upload/resize_cache/iblock/7f7/70_70_1/7f737d7d810640209ed42c42d45ab07e.jpg" width="70" height="66" alt="Triumph" title="Triumph" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Mercury/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/b72/70_70_1/b72a65890c7b8ea03d14cbbb45b85dfc.jpg" width="70" height="70" alt="Mercury" title="Mercury" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Rover/">
+									<img class="color-efekt" style="margin-top: 11.5px" border="0" src="/upload/resize_cache/iblock/67e/70_70_1/67ebf84676a0c21fcdfc6decb40ae551.jpg" width="70" height="57" alt="Rover" title="Rover" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/luaz/">
+									<img class="color-efekt" style="margin-top: 14px" border="0" src="/upload/resize_cache/iblock/746/70_70_1/7462d71d6a8a5e383fb4dbee4288e2d3.gif" width="70" height="52" alt="ЛуАЗ" title="ЛуАЗ" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Wanderer/">
+									<img class="color-efekt" style="margin-top: 23px" border="0" src="/upload/resize_cache/iblock/e05/70_70_1/e05f630e903c9b128ffe6b3fd8bc01ab.jpg" width="70" height="34" alt="Wanderer" title="Wanderer" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/datsun/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/271/70_70_1/271da7ce92cea77b156b7cd03a9ac0d8.jpg" width="70" height="70" alt="Datsun" title="Datsun" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Pagani/">
+									<img class="color-efekt" style="margin-top: 19.5px" border="0" src="/upload/resize_cache/iblock/2e8/70_70_1/2e8303b1f31564e88bc19af03c7c4a17.jpg" width="70" height="41" alt="Pagani" title="Pagani" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Fisker/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/1b6/70_70_1/1b6bc2ea8971b951259d628a6e374353.jpg" width="70" height="70" alt="Fisker" title="Fisker" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Steyr/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/6b1/70_70_1/6b1e5d60b3c4904f4fa612c018d3fd09.jpg" width="70" height="70" alt="Steyr" title="Steyr" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Santana/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/d11/70_70_1/d11a99187f668adb76666e1655236a38.jpg" width="67" height="70" alt="Santana" title="Santana" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Microcar/">
+									<img class="color-efekt" style="margin-top: 22px" border="0" src="/upload/resize_cache/iblock/c01/70_70_1/c0120847716ca98bd8f259de8e3e201c.jpg" width="70" height="36" alt="Microcar" title="Microcar" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Bufori/">
+									<img class="color-efekt" style="margin-top: 28.5px" border="0" src="/upload/resize_cache/iblock/b81/70_70_1/b8191e04a0a6a493a559bd10c3ac4be6.jpg" width="70" height="23" alt="Bufori" title="Bufori" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/AM_General/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/603/70_70_1/603a303fc1e9bea58d3f7b6981304f42.png" width="70" height="70" alt="AM General" title="AM General" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Venturi/">
+									<img class="color-efekt" style="margin-top: 16px" border="0" src="/upload/resize_cache/iblock/f30/70_70_1/f30a616f0e11596af693d07fa3a0969e.jpg" width="70" height="48" alt="Venturi" title="Venturi" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Great_Wall_2/">
+									<img class="color-efekt" style="margin-top: 16.5px" border="0" src="/upload/resize_cache/iblock/213/70_70_1/213e791d15658d9bbf616d99584dc300.jpg" width="70" height="47" alt="Great Wall" title="Great Wall" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Qvale/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/018/70_70_1/018483fb6a5f2c12b9a9d607f2c06ccc.jpg" width="61" height="70" alt="Qvale" title="Qvale" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Mega/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/3ea/70_70_1/3ea70ab15937a02827b1bed475a72a1a.jpg" width="70" height="70" alt="Mega" title="Mega" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/alfa_romeo/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/5b1/70_70_1/5b15a0052473037b70b17ba9ef52e937.jpg" width="70" height="70" alt="Alfa Romeo" title="Alfa Romeo" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/TATA/">
+									<img class="color-efekt" style="margin-top: 9.5px" border="0" src="/upload/resize_cache/iblock/f15/70_70_1/f159020eee8b773b72fb01edd8ffbd79.jpg" width="70" height="61" alt="TATA" title="TATA" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/CHANA/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/79e/70_70_1/79e2dd2a2ee8cdddd9e39c8ca48a4980.jpg" width="68" height="70" alt="Chana" title="Chana" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Bajaj/">
+									<img class="color-efekt" style="margin-top: 7.5px" border="0" src="/upload/resize_cache/iblock/481/70_70_1/4816832005cfa571697f4501772249f9.jpg" width="70" height="65" alt="Bajaj" title="Bajaj" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/W_Motors/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/e60/70_70_1/e60ed78ac46aa0d41fbd9766eaf89a98.jpg" width="66" height="70" alt="W Motors" title="W Motors" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Qoros/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/c31/70_70_1/c3157e957aaa9baf8f7922172eec0b89.jpg" width="69" height="70" alt="Qoros" title="Qoros" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/RAMBLER/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/abd/70_70_1/abdf75bb25d8bea23e9ad9abaaa45cab.jpg" width="70" height="70" alt="Rambler" title="Rambler" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Isuzu/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/05b/70_70_1/05bdeb7baf684a11abffa5b1f8032db0.jpg" width="70" height="70" alt="Isuzu" title="Isuzu" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Tofas/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/469/70_70_1/469d23b93aecd470e2073626cf48e468.jpg" width="70" height="70" alt="Tofas" title="Tofas" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/AC/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/53f/70_70_1/53f24e26edee227720231c8afb17cf88.jpg" width="68" height="70" alt="AC" title="AC" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/saab/">
+									<img class="color-efekt" style="margin-top: 5.5px" border="0" src="/upload/resize_cache/iblock/e43/70_70_1/e43e90ce94a200bb3c01ef119111cd12.jpg" width="70" height="69" alt="Saab" title="Saab" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Buick/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/547/70_70_1/547b515571553526432a9650ca4fe123.jpg" width="70" height="70" alt="Buick" title="Buick" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Caterham/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/b71/70_70_1/b71799f3d81a86c9e94bebd7aedca731.jpg" width="70" height="70" alt="Caterham" title="Caterham" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Bilenkin/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/586/70_70_1/586c7ee28b67053b1e89d50ce5274c4a.jpg" width="70" height="70" alt="Bilenkin" title="Bilenkin" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/NASH/">
+									<img class="color-efekt" style="margin-top: 11px" border="0" src="/upload/resize_cache/iblock/446/70_70_1/446991dac42cd83fac87a74a78aabe07.jpg" width="70" height="58" alt="Nash" title="Nash" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Austin/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/488/70_70_1/48845f96446981622c2f0df4928e7653.jpg" width="70" height="70" alt="Austin" title="Austin" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Tatra/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/876/70_70_1/8768e987963b1ac4a17fc5010a54781c.jpg" width="70" height="70" alt="Tatra" title="Tatra" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Coggiola/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/c83/70_70_1/c8328a69717d7a856c1d75423ef206ab.jpg" width="69" height="70" alt="Coggiola" title="Coggiola" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Premier/">
+									<img class="color-efekt" style="margin-top: 17px" border="0" src="/upload/resize_cache/iblock/213/70_70_1/2132d1702a10942507c7a26231524166.jpg" width="70" height="46" alt="Premier" title="Premier" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Foton/">
+									<img class="color-efekt" style="margin-top: 5.5px" border="0" src="/upload/resize_cache/iblock/0aa/70_70_1/0aa14bf400f1911ce5f082799b329820.jpg" width="70" height="69" alt="Foton" title="Foton" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/PUCH/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/7b9/70_70_1/7b9398c3a9b895d9e61a62ac985670ee.jpg" width="69" height="70" alt="PUCH" title="PUCH" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Trabant/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/017/70_70_1/017f90ef34779573e1e2f896d0bb4dad.jpg" width="65" height="70" alt="Trabant" title="Trabant" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Saturn/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/b37/70_70_1/b3746af53521a102731f62af3a548cd5.jpg" width="69" height="70" alt="Saturn" title="Saturn" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Vortex/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/9bb/70_70_1/9bb197acba59a0d177d9ac8298a1fb8a.jpg" width="70" height="70" alt="Vortex" title="Vortex" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/maserati/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/715/70_70_1/7158564b3b3556bc0b8ed991aea2d594.jpg" width="64" height="70" alt="Maserati" title="Maserati" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Doninvest/">
+									<img class="color-efekt" style="margin-top: 22.5px" border="0" src="/upload/resize_cache/iblock/a53/70_70_1/a53dd54db500429dcab4df1e4be93e7c.jpg" width="70" height="35" alt="Doninvest" title="Doninvest" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Baltijas_Dzips/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/0fe/70_70_1/0fe0e3144d3468333f8d8462e1ce5437.jpg" width="70" height="70" alt="Baltijas Dzips" title="Baltijas Dzips" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Packard/">
+									<img class="color-efekt" style="margin-top: 22.5px" border="0" src="/upload/resize_cache/iblock/dd1/70_70_1/dd134bbb842cf4153c68620e57c97cdd.jpg" width="70" height="35" alt="Packard" title="Packard" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Cizeta/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/910/70_70_1/910a9dfdec37d2e5dee8d3e65d125ac6.jpg" width="69" height="70" alt="Cizeta" title="Cizeta" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/PROMO_AUTO/">
+									<img class="color-efekt" style="margin-top: 25px" border="0" src="/upload/resize_cache/iblock/43b/70_70_1/43bf1349f2374bf2038f80bdeaa80821.gif" width="70" height="30" alt="Гоночный болид" title="Гоночный болид" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Hindustan/">
+									<img class="color-efekt" style="margin-top: 22.5px" border="0" src="/upload/resize_cache/iblock/974/70_70_1/9746e6aeec31cf8467d05c9e865df508.jpg" width="70" height="35" alt="Hindustan" title="Hindustan" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/ZiS/">
+									<img class="color-efekt" style="margin-top: 26.5px" border="0" src="/upload/resize_cache/iblock/47e/70_70_1/47ed354ad33cc55d1c76abe441b6c721.gif" width="70" height="27" alt="ЗиС" title="ЗиС" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Alpine/">
+									<img class="color-efekt" style="margin-top: 16px" border="0" src="/upload/resize_cache/iblock/af5/70_70_1/af53f231273a97d3ed3527e0b0df46a6.png" width="70" height="48" alt="Alpine" title="Alpine" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Invicta/">
+									<img class="color-efekt" style="margin-top: 24.5px" border="0" src="/upload/resize_cache/iblock/b93/70_70_1/b93c47c7b30adafd8e98dbd81801f551.jpg" width="70" height="31" alt="Invicta" title="Invicta" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Zibar/">
+									<img class="color-efekt" style="margin-top: 17px" border="0" src="/upload/resize_cache/iblock/8bb/70_70_1/8bb038552392db8463812cf2e15a6ae3.gif" width="70" height="46" alt="Zibar" title="Zibar" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/MG/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/303/70_70_1/3039cb9cb49890ab26119d779329018c.jpg" width="70" height="70" alt="MG" title="MG" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Hudson/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/8c0/70_70_1/8c0c7568657bb4355f0514f49d99fbb9.jpg" width="65" height="70" alt="Hudson" title="Hudson" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/DW_HOWER/">
+									<img class="color-efekt" style="margin-top: 35px" border="0" src="/upload/resize_cache/iblock/0a6/70_70_1/0a6d7bd21004ed65901e1be25f27a251.jpg" width="70" height="10" alt="DW Hower" title="DW Hower" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Zastava/">
+									<img class="color-efekt" style="margin-top: 17.5px" border="0" src="/upload/resize_cache/iblock/14c/70_70_1/14c116096af0b67497859e1e2f9854c3.gif" width="70" height="45" alt="Zastava" title="Zastava" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Ariel/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/d31/70_70_1/d31ed3022c6345bdbd9e81ec70bd921e.jpg" width="70" height="70" alt="Ariel" title="Ariel" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Wartburg/">
+									<img class="color-efekt" style="margin-top: 28.5px" border="0" src="/upload/resize_cache/iblock/35c/70_70_1/35c4293db37a4c05941227ac49cf83a9.gif" width="70" height="23" alt="Wartburg" title="Wartburg" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/LTI/">
+									<img class="color-efekt" style="margin-top: 13.5px" border="0" src="/upload/resize_cache/iblock/675/70_70_1/6757e6322a9c0901c029770176783fc9.jpg" width="70" height="53" alt="LTI" title="LTI" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Morris/">
+									<img class="color-efekt" style="margin-top: 14px" border="0" src="/upload/resize_cache/iblock/ada/70_70_1/ada7d855a349ad4c8306ada659efa5c9.jpg" width="70" height="52" alt="Morris" title="Morris" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Bugatti/">
+									<img class="color-efekt" style="margin-top: 14px" border="0" src="/upload/resize_cache/iblock/69d/70_70_1/69d4d8be04d2a7ea29ad98473e7895b0.jpg" width="70" height="52" alt="Bugatti" title="Bugatti" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/Spyker/">
+									<img class="color-efekt" style="margin-top: 22px" border="0" src="/upload/resize_cache/iblock/41a/70_70_1/41a6a5c19f91d60d1524abe45fef014c.jpg" width="70" height="36" alt="Spyker" title="Spyker" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/E-Car/">
+									<img class="color-efekt" style="margin-top: 11px" border="0" src="/upload/resize_cache/iblock/43a/70_70_1/43aba2d9c58d8883afb08fc8e2c3a2db.jpg" width="70" height="58" alt="E-Car" title="E-Car" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/INTERNATIONAL/">
+									<img class="color-efekt" style="margin-top: 15.5px" border="0" src="/upload/resize_cache/iblock/a9e/70_70_1/a9ee04a8c86009b559a151be48bde02c.jpg" width="70" height="49" alt="International" title="International" />		    	
+								</a>
+							</li>
+																																			<li>
+								<a href="/catalogue/RINSPEED/">
+									<img class="color-efekt" style="margin-top: 5px" border="0" src="/upload/resize_cache/iblock/119/70_70_1/1199625129df8329cd3ca71acc7ad351.jpg" width="70" height="70" alt="Rinspeed" title="Rinspeed" />		    	
+								</a>
+							</li>
+																																																																																																																																																																																																																																																																																																																																																																																</ul>
+			</div>
+			<a href="#" class="jcarousel-control-prev sl2">&lsaquo;</a>
+			<a href="#" class="jcarousel-control-next sl2">&rsaquo;</a>
+		</div>
+
+
+
+
+
+	</div>
+
+
+
+<div class="bg-main">
+	<div class="page-main">
+
+<div id="comp_8a5a57c7fc56e2d50ee86d53c285f271"><div class="jcarousel-wrapper slider">
+
+	<div class="st">Сегодня в продаже</div>
+
+    <div class="jcarousel sl1">
+        <ul>
+        	            <li>
+            				    <a href="/board/russiaused/bmw_bmw_6_seriya_1681157532/"><img src="/upload/resize_cache/iblock/63c/356_264_2/z45oo78n7dyoyc3ez6zojk631g0upchz.jpg" width="356" height="264" alt=""  >			    	
+			    </a>
+			    			    <span class="price">600 руб.</span>
+			    <a href="/board/russiaused/bmw_bmw_6_seriya_1681157532/" class="title">BMW 6 серия</a>
+			    <span class="year">
+
+									</li>
+                        <li>
+            				    <a href="/board/russianew/volvo_volvo_s80_1625411605/"><img src="/upload/resize_cache/iblock/6a5/356_264_2/6a562e2158b0a589e6d373f09e45ce22.jpg" width="356" height="264" alt=""  >			    	
+			    </a>
+			    			    <span class="price">590&nbsp;000 руб.</span>
+			    <a href="/board/russianew/volvo_volvo_s80_1625411605/" class="title">Volvo S80</a>
+			    <span class="year">
+
+									</li>
+                        <li>
+            				    <a href="/board/russianew/mercedes_benz_mercedes_benz_e_klasse_1613834412/"><img src="/upload/resize_cache/iblock/dc4/356_264_2/dc42c5eed46e83da913b69bd23f6ccea.jpg" width="356" height="264" alt=""  >			    	
+			    </a>
+			    			    <span class="price">210&nbsp;000 руб.</span>
+			    <a href="/board/russianew/mercedes_benz_mercedes_benz_e_klasse_1613834412/" class="title">Mercedes-Benz E-klasse</a>
+			    <span class="year">
+
+									</li>
+                        <li>
+            				    <a href="/board/russianew/volkswagen_volkswagen_polo_1613231631/"><img src="/upload/resize_cache/iblock/7fe/356_264_2/7feb23790b422b3fd3e021906f1d8338.jpg" width="356" height="264" alt=""  >			    	
+			    </a>
+			    			    <span class="price">450&nbsp;000 руб.</span>
+			    <a href="/board/russianew/volkswagen_volkswagen_polo_1613231631/" class="title">Volkswagen Polo</a>
+			    <span class="year">
+
+									</li>
+                        <li>
+            				    <a href="/board/russianew/mercedes_benz_mercedes_benz_gl_klasse_1604331855/"><img src="/upload/resize_cache/iblock/c09/356_264_2/c091c2e142073f3a0fc14beb60f76eb3.jpg" width="356" height="264" alt=""  >			    	
+			    </a>
+			    			    <span class="price">892&nbsp;000 руб.</span>
+			    <a href="/board/russianew/mercedes_benz_mercedes_benz_gl_klasse_1604331855/" class="title">Mercedes-Benz GL-klasse</a>
+			    <span class="year">
+
+									</li>
+                        <li>
+            				    <a href="/board/russianew/mazda_mazda_cx_5_1602913671/"><img src="/upload/resize_cache/iblock/e4f/356_264_2/e4f7462d9f2bba3f0b9f42f4d42b8f37.JPG" width="356" height="264" alt=""  >			    	
+			    </a>
+			    			    <span class="price">1&nbsp;960&nbsp;000 руб.</span>
+			    <a href="/board/russianew/mazda_mazda_cx_5_1602913671/" class="title">Mazda CX-5</a>
+			    <span class="year">
+
+									</li>
+                        <li>
+            				    <a href="/board/russianew/mercedes_benz_mercedes_benz_e_klasse_1598127100/"><img src="/upload/resize_cache/iblock/730/356_264_2/73007a8c17df78bd50e221ea1390a17f.jpg" width="356" height="264" alt=""  >			    	
+			    </a>
+			    			    <span class="price">2&nbsp;800&nbsp;000 руб.</span>
+			    <a href="/board/russianew/mercedes_benz_mercedes_benz_e_klasse_1598127100/" class="title">Mercedes-Benz E-klasse</a>
+			    <span class="year">
+
+									</li>
+                        <li>
+            				    <a href="/board/russianew/lada_vaz_2121_4x4_1598120761/"><img src="/upload/resize_cache/iblock/0b4/356_264_2/0b45b219b4d1044264028917c56c1948.jpg" width="356" height="264" alt=""  >			    	
+			    </a>
+			    			    <span class="price">445&nbsp;000 руб.</span>
+			    <a href="/board/russianew/lada_vaz_2121_4x4_1598120761/" class="title">2121 (4x4)</a>
+			    <span class="year">
+
+									</li>
+                        <li>
+            				    <a href="/board/russianew/lada_vaz_lada_vaz_granta_1598097857/"><img src="/upload/resize_cache/iblock/d72/356_264_2/d72177e75f3929606e525ff7dbc87e9b.jpg" width="356" height="264" alt=""  >			    	
+			    </a>
+			    			    <span class="price">160&nbsp;000 руб.</span>
+			    <a href="/board/russianew/lada_vaz_lada_vaz_granta_1598097857/" class="title">LADA (ВАЗ) Granta</a>
+			    <span class="year">
+
+									</li>
+                        <li>
+            				    <a href="/board/russianew/lada_vaz_lada_vaz_2114_1598051543/"><img src="/upload/resize_cache/iblock/a2b/356_264_2/a2b04cb834cb9df942555fc882cfc3f9.jpg" width="356" height="264" alt=""  >			    	
+			    </a>
+			    			    <span class="price">67&nbsp;000 руб.</span>
+			    <a href="/board/russianew/lada_vaz_lada_vaz_2114_1598051543/" class="title">LADA (ВАЗ) 2114</a>
+			    <span class="year">
+
+									</li>
+                        <li>
+            				    <a href="/board/russianew/kia_kia_optima_1598049972/"><img src="/upload/resize_cache/iblock/a7d/356_264_2/a7ded9d474acff09de95350a9cc05331.jpg" width="356" height="264" alt=""  >			    	
+			    </a>
+			    			    <span class="price">825 руб.</span>
+			    <a href="/board/russianew/kia_kia_optima_1598049972/" class="title">Kia Optima</a>
+			    <span class="year">
+
+									</li>
+                        <li>
+            				    <a href="/board/russiaused/toyota_toyota_yaris_1598034276/"><img src="/upload/resize_cache/iblock/34b/356_264_2/34bea2a36587453b50b34df1a30c61cd.jpg" width="356" height="264" alt=""  >			    	
+			    </a>
+			    			    <span class="price">222 руб.</span>
+			    <a href="/board/russiaused/toyota_toyota_yaris_1598034276/" class="title">Toyota Yaris</a>
+			    <span class="year">
+
+													Njvc 
+									</li>
+                        <li>
+            				    <a href="/board/russiaused/toyota_toyota_yaris_1598034272/"><img src="/upload/resize_cache/iblock/b61/356_264_2/b61216d657b673592b07d9df56d98922.jpg" width="356" height="264" alt=""  >			    	
+			    </a>
+			    			    <span class="price">222 руб.</span>
+			    <a href="/board/russiaused/toyota_toyota_yaris_1598034272/" class="title">Toyota Yaris</a>
+			    <span class="year">
+
+									</li>
+                        <li>
+            				    <a href="/board/russiaused/lexus_lexus_rx_1597936732/"><img src="/upload/resize_cache/iblock/944/356_264_2/9445ad6c85a06048a7b77e408b6dc20d.jpg" width="356" height="264" alt=""  >			    	
+			    </a>
+			    			    <span class="price">23&nbsp;222 руб.</span>
+			    <a href="/board/russiaused/lexus_lexus_rx_1597936732/" class="title">Lexus RX</a>
+			    <span class="year">
+
+									</li>
+                        <li>
+            				    <a href="/board/russianew/mercedes_benz_mercedes_benz_c_klasse_1583933293/"><img src="/upload/resize_cache/iblock/fb8/356_264_2/fb836600d0fbbdafa69186b3cbffe84a.jpg" width="356" height="264" alt=""  >			    	
+			    </a>
+			    			    <span class="price">1&nbsp;140&nbsp;000 руб.</span>
+			    <a href="/board/russianew/mercedes_benz_mercedes_benz_c_klasse_1583933293/" class="title">Mercedes-Benz C-klasse</a>
+			    <span class="year">
+
+									</li>
+                        <li>
+            				    <a href="/board/russianew/toyota_toyota_corolla_1581596711/"><img src="/upload/resize_cache/iblock/e35/356_264_2/e3511096861e11fe61ae2847dd339395.JPG" width="356" height="264" alt=""  >			    	
+			    </a>
+			    			    <span class="price">400&nbsp;000 руб.</span>
+			    <a href="/board/russianew/toyota_toyota_corolla_1581596711/" class="title">Toyota Corolla</a>
+			    <span class="year">
+
+									</li>
+                        <li>
+            				    <a href="/board/russianew/mercedes_benz_mercedes_benz_g_klasse_amg_1578946971/"><img src="/upload/resize_cache/iblock/789/356_264_2/7897d037e66b5f888f09dd89e2ca6135.JPG" width="356" height="264" alt=""  >			    	
+			    </a>
+			    			    <span class="price">3&nbsp;800&nbsp;000 руб.</span>
+			    <a href="/board/russianew/mercedes_benz_mercedes_benz_g_klasse_amg_1578946971/" class="title">Mercedes-Benz G-klasse AMG</a>
+			    <span class="year">
+
+									</li>
+                        <li>
+            				    <a href="/board/russianew/mercedes_benz_mercedes_benz_g_klasse_amg_1578946800/"><img src="/upload/resize_cache/iblock/816/356_264_2/81605b3f5df9080932b948d3a71933f7.JPG" width="356" height="264" alt=""  >			    	
+			    </a>
+			    			    <span class="price">3&nbsp;800&nbsp;000 руб.</span>
+			    <a href="/board/russianew/mercedes_benz_mercedes_benz_g_klasse_amg_1578946800/" class="title">Mercedes-Benz G-klasse AMG</a>
+			    <span class="year">
+
+									</li>
+                        <li>
+            				    <a href="/board/russiaused/bmw_bmw_x7_1576484206/"><img src="/upload/resize_cache/iblock/b24/356_264_2/b24c0fac071897979993f32c0e364ae6.jpg" width="356" height="264" alt=""  >			    	
+			    </a>
+			    			    <span class="price">7&nbsp;000&nbsp;000 руб.</span>
+			    <a href="/board/russiaused/bmw_bmw_x7_1576484206/" class="title">BMW X7</a>
+			    <span class="year">
+
+									</li>
+                        <li>
+            				    <a href="/board/russianew/ford_ford_explorer_1576144218/"><img src="/upload/resize_cache/iblock/aa6/356_264_2/aa62de61c52f3f55101cdad8d1e19a2f.jpg" width="356" height="264" alt=""  >			    	
+			    </a>
+			    			    <span class="price">1&nbsp;490&nbsp;000 руб.</span>
+			    <a href="/board/russianew/ford_ford_explorer_1576144218/" class="title">Ford Explorer</a>
+			    <span class="year">
+
+									</li>
+                        <li>
+            				    <a href="/board/russiaused/bmw_bmw_x7_1575802546/"><img src="/upload/resize_cache/iblock/c94/356_264_2/c940eda8e4534fc4390c8ae5c8aed628.jpg" width="356" height="264" alt=""  >			    	
+			    </a>
+			    			    <span class="price">7&nbsp;000&nbsp;000 руб.</span>
+			    <a href="/board/russiaused/bmw_bmw_x7_1575802546/" class="title">BMW X7</a>
+			    <span class="year">
+
+									</li>
+                        <li>
+            				    <a href="/board/russianew/ford_ford_explorer_1575548751/"><img src="/upload/resize_cache/iblock/361/356_264_2/3619ef97f44ba23a63a558eaefbde6bc.jpg" width="356" height="264" alt=""  >			    	
+			    </a>
+			    			    <span class="price">1&nbsp;950&nbsp;000 руб.</span>
+			    <a href="/board/russianew/ford_ford_explorer_1575548751/" class="title">Ford Explorer</a>
+			    <span class="year">
+
+									</li>
+                    </ul>
+    </div>
+    <a href="#" class="jcarousel-control-prev sl1">&lsaquo;</a>
+    <a href="#" class="jcarousel-control-next sl1">&rsaquo;</a>
+</div></div> 
+</div>
+</div>
+
+<div class="page-main">
+
+<div class="hr"></div>
+<br>
+
+
+<div class="main-wrap"> 		 
+<div class="wrap"> 		 
+  <div class="coll2 boxhome4"> 		 
+				<div class="holder">
+									<span class="headline"><a href="/test-drive/">Тест-драйв</a></span>
+							<!-- resizeX -->
+												<a href="/test-drive/rr-fifty/"><img src="/upload/resize_cache/iblock/4d7/710_545_2/4d74ed03318f6515b2d6d157f68b61df.jpeg"  alt="" width="710" height="545" /></a>
+							<!-- resizeX -->
+
+			
+				</div><!-- /.holder -->
+				<a class="title3" href="/test-drive/rr-fifty/">Полвека в зеркале: тест Range Rover Fifty</a>
+		
+
+
+				
+		
+ 		</div>
+ 
+<!-- /.coll1 -->
+ 		 		 
+  <div class="coll2 boxhome4"> 
+				<div class="holder">
+									<span class="headline"><a href="/news/supercars/">Суперкары</a></span>
+							<!-- resizeX -->
+												<a href="/news/supercars/1275173/"><img src="/upload/resize_cache/iblock/078/710_545_2/lp6whurevshl1bqz0ov0f219y6c50yug.png"  alt="" width="710" height="545" /></a>
+							<!-- resizeX -->
+
+			
+				</div><!-- /.holder -->
+				<a class="title3" href="/news/supercars/1275173/">Automobili Pininfarina покажет новый B95 на Неделе автомобилей 17 августа</a>
+		
+
+
+				
+		
+ 	 </div>
+ 
+
+<!-- /.coll1 -->
+ 		 		 
+  <div class="coll2 boxhome4"> 
+				<div class="holder">
+									<span class="headline"><a href="/news/tuning/">Тюнинг авто</a></span>
+							<!-- resizeX -->
+												<a href="/news/tuning/1275112/"><img src="/upload/resize_cache/iblock/2a3/710_545_2/ztoqkfkidbfj8nxdiew7gwbbd2bn6tdf.png"  alt="" width="710" height="545" /></a>
+							<!-- resizeX -->
+
+			
+				</div><!-- /.holder -->
+				<a class="title3" href="/news/tuning/1275112/">Mitsubishi Lancer Evo X приобретает безумный вид с переливающейся краской </a>
+		
+
+
+				
+		
+ 	</div>
+ 
+ 
+
+
+
+<!-- /.coll2 -->
+ </div>
+ 
+<br>
+<div class="hr"></div>
+<br>
+<div class="box-photo">
+	<h2 class="headline"><a href="/photo/">Фото</a></h2>
+	<ul class="photos">
+		<li>
+			<div>
+
+																	<a href="/photo/2192/213416/slide_show/"><img src="/upload/resize_cache/iblock/783/200_142_2/783939259cf5e78ffd5a3a0778a21bef.jpg"  alt="" width="200" height="142" /></a>
+								</div>
+				<a href="/photo/2192/213416/slide_show/">Когда же начнётся производство LADA XRAY Sport? </a>
+		</li>
+		<li>
+			<div>
+
+																	<a href="/photo/1937/199062/slide_show/"><img src="/upload/resize_cache/iblock/41a/200_142_2/picture_8.png"  alt="" width="200" height="142" /></a>
+								</div>
+				<a href="/photo/1937/199062/slide_show/">В следующем году, российский модельный ряд китайской компании Changan пополнится тремя моделями </a>
+		</li>
+		<li>
+			<div>
+
+																	<a href="/photo/210/3708/slide_show/"><img src="/upload/resize_cache/iblock/c35/200_142_2/2011%20Chrysler%20300C_thumbnail.jpg"  alt="" width="200" height="142" /></a>
+								</div>
+				<a href="/photo/210/3708/slide_show/">Chrysler</a>
+		</li>
+	</ul>
+</div><!-- /.box-photo --><div class="clear"></div>	 
+<br>
+<div class="hr"></div>
+<br>
+<div class="box-photo">
+	<h2 class="headline"><a href="/photo/198/">Автоприколы</a></h2>
+	<ul class="photos">
+		<li>
+
+																	<a href="/photo/198/706/"><img src="/upload/resize_cache/iblock/2da/205_165_2/avtoprikol3_thumbnail.jpeg"  alt="" width="205" height="165" /></a>
+									<a href="/photo/198/706/">Bmw 3 - всмятку</a>		</li>
+		<li>
+
+																	<a href="/photo/198/1216/"><img src="/upload/resize_cache/iblock/ba1/205_165_2/pricep_thumbnail.jpg"  alt="" width="205" height="165" /></a>
+									<a href="/photo/198/1216/">большой прицеп</a>		</li>
+		<li>
+
+																	<a href="/photo/198/1633/"><img src="/upload/resize_cache/iblock/a73/205_165_2/avto-prikols_thumbnail.jpg"  alt="" width="205" height="165" /></a>
+									<a href="/photo/198/1633/">Роллс-Ройс из СССР )</a>		</li>
+	</ul>
+</div><!-- /.box-photo -->  	
+<div class="clear"></div>	 
+<!-- ABOUT -->
+ 
+<ul class="promo-articles"> 
+  <li> 	 
+    <div style="margin-top: 10px; margin-bottom: 0px;" class="box1"> 	 <h1>CarsWeek.ru - Автопортал</h1>
+<p>
+	 На нашем автомобильном портале Вы можете прочитать самые свежие автомобильные новости, тест-драйвы, подобрать новый или б/у автомобиль.
+</p>
+<h2><span style="font-size: 32px;">Покупка и продажа авто</span></h2>
+<p>
+	 У нас вы найдете базу объявлений о продаже машин из рук в руки, как в Москве так и во всех городах России.
+</p>
+<p>
+	 <a Санкт-Петербур,&nbsp;="" Краснодар,&nbsp;="" Ярославль,="" так="" и="" любом="" другом="" городе="" России="" по="" аналогии="" сайтов:="" дром,="" авито,="" авто="" ру.="" <="" p="" >
+	 На автопортале Карсвик.ру публикуются автомобильные новости, обзоры машин с историей, фотографиями и видео, а также новости тюнинговых компаний и реальные отзывы автовладельцев.
+</a>
+</p>
+<a Санкт-Петербур,&nbsp;="" Краснодар,&nbsp;="" Ярославль,="" так="" и="" любом="" другом="" городе="" России="" по="" аналогии="" сайтов:="" дром,="" авито,="" авто="" ру.="" <="" p="" >
+<p>
+	 Наш каталог машин – это база данных всех ныне выпускаемых моделей. Там помимо технических и динамических характеристик, к каждой машине написан интересный обзор, подкрепленный качественными фотографиями. Узнать актуальные цены на новые авто вы можете также в каталоге.
+</p></a> 
+      <div class="c tl"> 
+<!-- -->
+ </div>
+     
+      <div class="c tr"> 
+<!-- -->
+ </div>
+     
+      <div class="c bl"> 
+<!-- -->
+ </div>
+     
+      <div class="c br"> 
+<!-- -->
+ </div>
+     </div>
+   
+<!-- /.box1 -->
+ </li>
+ </ul>
+ 
+<!-- /ABOUT -->
+ 
+<!-- pr-cy 38ca4ee4f59aed8ec32771e758859f58 -->
+ 
+<!-- /.wrap  -->
+</div>
+<aside>
+	  
+
+
+
+ 		 
+<div class="extra">
+
+		
+<!-- Yandex.RTB R-A-149162-11 -->
+<div id="yandex_rtb_R-A-149162-11"></div>
+
+
+
+
+
+	<!-- прямоугольник -->
+	<div id="fixblock1" style="top:20px; position: fixed1;">
+		<!-- Yandex.RTB R-A-149162-7 -->
+	<div id="yandex_rtb_R-A-149162-7"></div>
+
+	</div>
+
+		</div>
+ 
+<!-- /.extra --></aside>
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "Organization",
+  "name": "CARSWEEK.RU - автомобильный портал",
+  "url": "https://carsweek.ru/",
+  "logo": "https://carsweek.ru/upload/adwex.minified/webp/1e7/90/1e7ee0868bd6596e6470aa1f406e5645.webp",
+  "image": "https://carsweek.ru/upload/adwex.minified/webp/1e7/90/1e7ee0868bd6596e6470aa1f406e5645.webp",
+  "description": "Carsweek.ru - автопортал, новости автомира, объявления о продаже новых и бу машин, тест-драйвы, автомобильный каталог, отзывы и полезные советы автолюбителям",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+7 915 979 14 25 ",
+    "contactType": "Редактор"
+  }
+}
+ </script>
+
+
+<div style="clear:both;"><br></div>
+ <DIV ID="toTop" >^</DIV>			</div>
+			<footer>
+				<div id="footer">
+					
+					
+					
+					<div class="mobfootmenu">
+					
+						<ul class="foot-navbox">
+						  <li><a href="/board/">Купить авто</a></li>
+						  <li><a href="/catalogue/">Каталог</a></li>
+						  <li><a href="/news/">Автоновости</a></li>
+						  <li><a href="/about/">О проекте</a></li>
+						  <li><a href="/photo/">Фото</a></li>
+						  </ul>
+						  
+						  
+						  <ul class="foot-navbox">
+						  
+						  <li><a href="/photo/198/">Автоприколы</a></li>
+						  <li><a href="/autosalon/">Автосалоны</a></li>
+						  <li><a href="/test-drive/">Тест - драйв</a></li>
+						  <li><a href="/news/supercars/">Суперкары</a></li>
+						  <li><a href="/news/tuning/">Тюнинг</a></li>
+						  <li><a href="/autoservice/map-all/">Автосервисы</a></li>
+						  </ul>
+						  
+						  
+						  
+					</div>
+				   
+					
+				  <div class="box1">
+					
+						
+						<nav>
+						  <ul class="foot-navbox desktopfootmenu">
+						  <li><a href="/board/">Купить авто</a></li>
+						  <li><a href="/catalogue/">Каталог</a></li>
+						  <li><a href="/news/">Автоновости</a></li>
+						  <li><a href="/about/">О проекте</a></li>
+						  </ul>
+						  
+						   <ul class="foot-navbox desktopfootmenu">
+						  <li><a href="/photo/">Фото</a></li>
+						  <li><a href="/photo/198/">Автоприколы</a></li>
+						  <li><a href="/autosalon/">Автосалоны</a></li>
+						  <li><a href="/autoservice/map-all/">Автосервисы</a></li>
+						  </ul>
+						  
+						   <ul class="foot-navbox desktopfootmenu">
+						  <li><a href="/test-drive/">Тест - драйв</a></li>
+						  <li><a href="/news/supercars/">Суперкары</a></li>
+						  <li><a href="/news/tuning/">Тюнинг</a></li>
+						  						  <li><a href="/register/">Регистрация для автосалонов</a></li>
+						  						  </ul>
+						  </nav>
+
+					
+				  
+				
+			<!-- /.box1 -->
+
+					
+					
+			<!-- /.footer-banner -->
+			<noindex>
+			<div class="socic">
+			<a rel="nofollow" href="https://zen.yandex.ru/carsweek.ru" id="dz"></a>
+			<a rel="nofollow" href="https://vk.com/carsweekru" id="vk"></a>
+			<a rel="nofollow" href="https://twitter.com/CarsWeek1" id="tw"></a>
+			</div>
+				</noindex>	
+				 
+				
+			<!-- /.footer-banner -->
+
+					
+				</div>
+			  
+			<!-- /#footer -->
+			 </div>
+			</footer>
+			<!-- /#page -->
+		
+		<p class="copy">© 2007-2023. <br>
+ Сетевое издание «CarsWeek» зарегистрировано в Федеральной службе по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор) 25 апреля 2017 года.<br>
+ Свидетельство о регистрации ЭЛ № ФС77-69477. Учредитель: Богачков Сергей Григорьевич. Главный редактор: С. Г. Богачков.<br>
+ Электронная почта редакции: <a href="mailto:bogachs@yandex.ru">bogachs@yandex.ru</a>. Телефон редакции: +7-915-979-14-25.<br>
+Использование материалов сайта разрешается только с установкой активной гиперссылки на CarsWeek.ru. 16+</p>
+	</div>
+		<nav id="menu">
+			<ul>
+					<li id="bx_1847241719_1971">
+										<a href="/board/all/">
+						Купить авто											</a>
+				
+		<ul>
+						<li id="bx_1847241719_19156">
+										<a href="/board/all/">
+						Все авто											</a>
+				</li>
+						<li id="bx_1847241719_19157">
+										<a href="/board/used/">
+						Б/у авто											</a>
+				</li>
+						<li id="bx_1847241719_19158">
+										<a href="/board/new/">
+						Новые авто											</a>
+				</li>
+						<li id="bx_1847241719_19159">
+										<a href="/catalogue/">
+						Каталог											</a>
+				</li>
+		</ul>
+	</li>
+					<li id="bx_1847241719_1969">
+										<a href="/news/">
+						Автоновости											</a>
+				
+		<ul>
+						<li id="bx_1847241719_19148">
+										<a href="/news/">
+						Все автоновости 											</a>
+				</li>
+						<li id="bx_1847241719_19153">
+										<a href="/news/supercars/">
+						Суперкары											</a>
+				</li>
+						<li id="bx_1847241719_19154">
+										<a href="/news/tuning/">
+						Тюнинг авто											</a>
+				</li>
+						<li id="bx_1847241719_19150">
+										<a href="/news/autosport/">
+						Автоспорт											</a>
+				</li>
+						<li id="bx_1847241719_19151">
+										<a href="/news/moto/">
+						Мото											</a>
+				</li>
+						<li id="bx_1847241719_19152">
+										<a href="/news/law/">
+						Закон											</a>
+				</li>
+						<li id="bx_1847241719_76308">
+										<a href="/news/avtonovinki/">
+						 Автоновинки											</a>
+				</li>
+						<li id="bx_1847241719_19149">
+										<a href="/news/dtp/">
+						Дтп											</a>
+				</li>
+		</ul>
+	</li>
+					<li id="bx_1847241719_76306">
+										<a href="/test-drive/">
+						Тесты											</a>
+				</li>
+					<li id="bx_1847241719_1975">
+										<a href="/autoservice/">
+						Автосервисы											</a>
+				</li>
+					<li id="bx_1847241719_1970">
+										<a href="/day_reviews/">
+						Автообзоры											</a>
+				
+		<ul>
+						<li id="bx_1847241719_76305">
+										<a href="/sovety/">
+						Советы											</a>
+				</li>
+						<li id="bx_1847241719_19155">
+										<a href="/test-drive/">
+						Тест-драйв											</a>
+				</li>
+						<li id="bx_1847241719_19160">
+										<a href="/second-hands/">
+						Вторые руки											</a>
+				</li>
+						<li id="bx_1847241719_19161">
+										<a href="/car-repair/">
+						Ремонт авто											</a>
+				</li>
+						<li id="bx_1847241719_19162">
+										<a href="/auto-right/">
+						Авто право											</a>
+				</li>
+						<li id="bx_1847241719_19165">
+										<a href="/articles/">
+						Статьи											</a>
+				</li>
+		</ul>
+	</li>
+</ul>
+<div style="clear: both;"></div>		</nav>
+			<!-- Yandex.Metrika counter -->
+				<!-- /Yandex.Metrika counter -->
+	
+
+
+	<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script><script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1679849691220366"></script><script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','UTF_MODE':'Y','SITE_ID':'s1','SITE_DIR':'/'});</script><script type="text/javascript"  src="/bitrix/cache/js/s1/new2020/kernel_main/kernel_main_v1.js?1680169184152878"></script>
+<script type="text/javascript" src="/bitrix/js/ui/dexie/dist/dexie3.bundle.min.js?167984941188295"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ls.min.js?15461886367365"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_frame_cache.min.js?167984931111264"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core_fx.js','/bitrix/js/main/pageobject/pageobject.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/utils.js','/bitrix/js/main/session.js','/bitrix/templates/new2020/js/jquery.min.js','/bitrix/templates/new2020/js/jquery.mmenu.all.js','/bitrix/templates/new2020/js/jquery.cookie.js','/bitrix/templates/new2020/js/popper.min.js','/bitrix/templates/new2020/js/bootstrap.min.js','/bitrix/templates/new2020/js/bootstrap-slider.min.js','/bitrix/templates/new2020/js/lightGallery/dist/js/lightgallery-all.min.js','/bitrix/templates/new2020/js/lightGallery/modules/lg-fullscreen.js','/bitrix/templates/new2020/js/lightGallery/modules/lg-thumbnail.js','/bitrix/templates/new2020/js/lightGallery/modules/lg-video.js','/bitrix/templates/new2020/js/lightGallery/modules/lg-autoplay.js','/bitrix/templates/new2020/js/lightGallery/modules/lg-zoom.js','/bitrix/templates/new2020/js/lightGallery/modules/lg-hash.js','/bitrix/templates/new2020/js/lightGallery/modules/lg-pager.js','/bitrix/templates/new2020/js/lightGallery/lib/jquery.mousewheel.min.js','/bitrix/templates/new2020/js/easydropdown.js','/bitrix/templates/new2020/js/jquery-ui.js','/bitrix/templates/new2020/js/jcarousel.min.js','/bitrix/templates/new2020/js/slick.js','/bitrix/templates/new2020/js/swiper.min.js','/bitrix/templates/new2020/js/script.js']);</script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/templates/new2020/components/bitrix/news.list/slider-news/style.css','/bitrix/templates/new2020/components/bitrix/news.list/top265/style.css','/bitrix/templates/new2020/components/bitrix/news.list/photogl/style.css','/bitrix/templates/new2020/components/bitrix/news.list/autoprikols/style.css','/bitrix/templates/new2020/js/lightGallery/dist/css/lightgallery.css','/bitrix/templates/new2020/css/jquery.mmenu.all.css','/bitrix/templates/new2020/css/bootstrap.min.css','/bitrix/templates/new2020/css/bootstrap-slider.min.css','/bitrix/templates/new2020/css/style.css','/bitrix/templates/new2020/css/easydropdown.css','/bitrix/templates/new2020/css/jquery-ui.css','/bitrix/templates/new2020/font-awesome/css/font-awesome.min.css','/bitrix/templates/new2020/css/swiper.min.css','/bitrix/templates/new2020/css/slick-theme.css','/bitrix/templates/new2020/styles.css','/bitrix/templates/new2020/template_styles.css']);</script>
+<script src="/push-subscribe/push-init.js"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s1/new2020/template_e1a85962df306da8426a7d27192dd84e/template_e1a85962df306da8426a7d27192dd84e_v1.js?16801691181186883"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "09560d831eb6dc44e04aad96b4791e04"]); _ba.push(["host", "carsweek.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-PXD7JF4');</script>
+<script async type="text/javascript">
+	document.addEventListener('DOMContentLoaded', function () {
+		s = document.createElement('script');
+		s.src = '/genPageJs.js';
+		s.async = true;
+		document.body.appendChild(s);
+	});
+</script>
+<script type="text/javascript">
+$(function() {
+$(window).scroll(function() {
+if($(this).scrollTop() != 0) {
+$('#toTop').fadeIn();
+} else {
+$('#toTop').fadeOut();
+}
+});
+$('#toTop').click(function() {
+$('body,html').animate({scrollTop:0},800);
+});
+});
+</script>
+
+<script async type="text/javascript">
+			(function (d, w, c) {
+				(w[c] = w[c] || []).push(function() {
+					try {
+						w.yaCounter31792361 = new Ya.Metrika({
+							id:31792361,
+							clickmap:true,
+							trackLinks:true,
+							accurateTrackBounce:true,
+							webvisor:true,
+							trackHash:true
+						});
+						
+					} catch(e) { }
+				});
+
+				var n = d.getElementsByTagName("script")[0],
+					s = d.createElement("script"),
+					f = function () { n.parentNode.insertBefore(s, n); };
+				s.type = "text/javascript";
+				s.async = true;
+				s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+				if (w.opera == "[object Opera]") {
+					d.addEventListener("DOMContentLoaded", f, false);
+				} else { f(); }
+			})(document, window, "yandex_metrika_callbacks");
+		</script>
+</body>
+</html>
+<!--393d34d404528d5b7731900de94c44fc-->

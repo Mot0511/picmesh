@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content{
+    width: 90vw;
+    height: 90vh;
+    margin-top: 5vh;
+    display: flex;
+}
+.image{
+    width: 75%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+.controls{
+    width: 25%;
+    height: 100%;
+    position: relative;
+}
+.buttons{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    flex-wrap: wrap;
+}

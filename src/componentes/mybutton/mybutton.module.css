@@ -1,0 +1,10 @@
+.button{
+    width: 50%;
+    height: 70px;
+    background: none;
+    border: 0;
+    font-size: 20px;
+}
+.button:hover{
+    background-color: lightgrey;
+}
