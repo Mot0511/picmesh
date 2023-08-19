@@ -1,0 +1,21 @@
+@keyframes loading {
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
+
+.loading{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    background-image: linear-gradient(45deg, red, #880000);
+    animation-duration: 0.3s;
+    animation-name: loading;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-timing-function: linear;
+    opacity: 0.5;
+}

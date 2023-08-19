@@ -1,10 +1,15 @@
 .button{
-    width: 50%;
+    width: 48%;
     height: 70px;
     background: none;
-    border: 0;
     font-size: 20px;
+    border: 1px solid red;
+    margin: 1%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .button:hover{
-    background-color: lightgrey;
+    background-color: red;
 }
