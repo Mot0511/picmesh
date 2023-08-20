@@ -22,42 +22,47 @@ const Reg = () => {
     const [loading, setLoading] = useState(false)
 
     const sign = async () => {
-        setLoading(true)
-        console.log(email);
-        createUserWithEmailAndPassword(auth, email, pass)
-            .then(async () => {
-                setCookie('login', login)
-                await setDoc(doc(db, "users", login), {
-                    login: login,
-                    email: email,
-                    saved: [],
-                    topics: []
+        if (login, email, pass){
+            setLoading(true)
+            console.log(email);
+            createUserWithEmailAndPassword(auth, email, pass)
+                .then(async () => {
+                    setCookie('login', login)
+                    await setDoc(doc(db, "users", login), {
+                        login: login,
+                        email: email,
+                        saved: [],
+                        topics: []
+                    });
+                    nav('/')
+                })
+                .catch((error) => {
+                    setLoading(false)
+                    if (error.code == 'auth/invalid-email'){
+                        setError('Некорректная почта')
+                    }
+                    else if(error.code == 'auth/email-already-in-use'){
+                        setError('Такой пользователь уже существует')
+                    }
+                    else{
+                        console.error(error.message);
+                    }
+
                 });
-                nav('/')
-            })
-            .catch((error) => {
-                setLoading(false)
-                if (error.code == 'auth/invalid-email'){
-                    setError('Некорректная почта')
-                }
-                else if(error.code == 'auth/email-already-in-use'){
-                    setError('Такой пользователь уже существует')
-                }
-                else{
-                    console.error(error.message);
-                }
 
-            });
 
+        }
     }
 
     return (
         <div className={cl.logregwin}>
             <p>Зарегистрироваться</p>
-            <Myinput text={'Логин'} onChange={e => setLogin(e.target.value)} />
-            <Myinput text={'Почта'} onChange={e => setEmail(e.target.value)} />
-            <Myinput text={'Пароль'} onChange={e => setPass(e.target.value)} />
-            <Mybutton onClick={sign} style={{width: '100%', height: '45px', margin: '20px 0'}}>{loading ? <Loading style={{width: '30px', height: '30px'}} /> : 'Зарегистрироваться'}</Mybutton>
+            <form>
+                <Myinput text={'Логин'} onChange={e => setLogin(e.target.value)} required />
+                <Myinput text={'Почта'} onChange={e => setEmail(e.target.value)} required />
+                <Myinput text={'Пароль'} onChange={e => setPass(e.target.value)} required />
+                <Mybutton onClick={sign} style={{width: '100%', height: '45px', margin: '20px 0'}}>{loading ? <Loading style={{width: '30px', height: '30px'}} /> : 'Зарегистрироваться'}</Mybutton>
+            </form>
             <Link to={'/login'}>Войти в существующий аккаунт</Link>
             <p className={cl.error}>{error}</p>
         </div>
